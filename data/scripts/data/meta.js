@@ -1,911 +1,18 @@
 var ARTIST = {
-    /*
-    KAGAMI_HIROTAKA: {
-        eng: "Kagami",
-        engAlias: ["Kagami Hirotaka", "Hirotaka Kagami", "Hirotaka"],
-        jap: "カガミ",
-        japAlias: ["嘉臥深", "嘉神", "嘉神ヒロタカ"]
-    },
-    AOI_NAGISA: {
-        eng: "Aoi Nagisa",
-        engAlias: ["Aoi", "Nagisa", "Nagisa Aoi"],
-        jap: "葵渚",
-        japAlias: ["葵", "渚"]
-    },
-    ZOL: {
-        eng: "ZOL",
-        engAlias: [],
-        jap: "ZOL",
-        japAlias: []
-    },
-    SASAYUKI: {
-        eng: "SASAYUKi",
-        engAlias: [],
-        jap: "SASAYUKi",
-        japAlias: []
-    },
-    SHINDOL: {
-        eng: "ShindoL",
-        engAlias: ["Da Hootch", "Shindo L", "Shindo_L"],
-        jap: "新堂エル",
-        japAlias: []
-    },
-    MIKOYAN: {
-        eng: "Mikoyan",
-        engAlias: [],
-        jap: "みこやん",
-        japAlias: []
-    },
-    ASAHI: {
-        eng: "Asahi",
-        engAlias: [],
-        jap: "旭",
-        japAlias: []
-    },
-    HOMURA_YUNI: {
-        eng: "Homura Yuni",
-        engAlias: ["Homura", "Yuni", "Yuni Homura"],
-        jap: "ほむらゆに",
-        japAlias: ["ほむら", "ゆに"]
-    },
-    KUUCHUU_YOUSAI: {
-        eng: "Kuuchuu Yousai",
-        engAlias: ["Yousai", "Kuuchuu", "Yousai Kuuchuu"],
-        jap: "空中幼彩",
-        japAlias: ["空中", "幼彩"]
-    },
-    SAKURANBO: {
-        eng: "Sakuranbo",
-        engAlias: [],
-        jap: "さくらんぼ",
-        japAlias: []
-    },
-    NOBUSHITO: {
-        eng: "Nobushito",
-        engAlias: [],
-        jap: "のぶしと",
-        japAlias: []
-    },
-    OBUI: {
-        eng: "Obui",
-        engAlias: ["OV"],
-        jap: "おぶい",
-        japAlias: []
-    },
-    GARA_AYURI: {
-        eng: "Gara Ayuri",
-        engAlias: ["Gara", "Ayuri", "Ayuri Gara"],
-        jap: "柄あゆり",
-        japAlias: ["柄", "あゆり"]
-    },
-    ASAGIRI: {
-        eng: "asagiri",
-        engAlias: [],
-        jap: "asagiri",
-        japAlias: []
-    },
-    BAN: {
-        eng: "Ban!",
-        engAlias: ["Ban"],
-        jap: "ばん！",
-        japAlias: ["ばん"]
-    },
-    POTION: {
-        eng: "Potion",
-        engAlias: [],
-        jap: "ぽ～しょん",
-        japAlias: []
-    },
-    FEI: {
-        eng: "Fei",
-        engAlias: ["Hien", "Fei"],
-        jap: "飛燕",
-        japAlias: []
-    },
-    SIAN: {
-        eng: "sian",
-        engAlias: [],
-        jap: "sian",
-        japAlias: []
-    },
-    DEKOSEN_TAKUJI: {
-        eng: "Dekosen Takuji",
-        engAlias: ["Dekosen", "Takuji", "Takuji Dekosen"],
-        jap: "デコセン タクジ",
-        japAlias: ["デコセン", "デコセンタクジ", "タクジ"]
-    },
-    KOKONOKI_NAO: {
-        eng: "Kokonoki Nao",
-        engAlias: ["Kokonoki", "Nao", "Nao", "Kokonoki"],
-        jap: "ここのき奈緒",
-        japAlias: ["ここのき", "奈緒"]
-    },
-    NAMANIKUATK: {
-        eng: "NamanikuATK",
-        engAlias: ["Namaniku ATK", "Namaniku"],
-        jap: "なまにくATK",
-        japAlias: ["なまにく"]
-    },
-    COMETUB: {
-        eng: "Cometub",
-        engAlias: ["Kometsubu"],
-        jap: "こめつぶ",
-        japAlias: []
-    },
-    AIKAWA_ARISA: {
-        eng: "Aikawa Arisa",
-        engAlias: ["Aikawa", "Arisa", "Arisa Aikawa"],
-        jap: "相川亜利砂",
-        japAlias: ["利砂", "相川亜"]
-    },
-    SANO_TOSHIHIDE: {
-        eng: "Sano Toshihide",
-        engAlias: ["Sano", "Toshihide", "Toshihide Sano"],
-        jap: "さのとしひで",
-        japAlias: ["さの", "としひで", "佐野俊英", "佐野", "俊英"]
-    },
-    SAIJO_SATORU: {
-        eng: "Saijo Satoru",
-        engAlias: ["Saijo", "Satoru", "Satoru Saijo"],
-        jap: "西條サトル",
-        japAlias: ["西條", "サトル"]
-    },
-    HOKAN: {
-        eng: "Hokan",
-        engAlias: [],
-        jap: "ほかん",
-        japAlias: []
-    },
-    YUUJI: {
-        eng: "Yuuji",
-        engAlias: [],
-        jap: "ユージ",
-        japAlias: []
-    },
-    TANA:{
-        eng: "TANA",
-        engAlias: [],
-        jap: "TANA",
-        japAlias: []
-    },
-    TSUJI_SANTA:{
-        eng: "Tsuji Santa",
-        engAlias: ["Tsuji", "Santa Tsuji", "Santa"],
-        jap: "津路参汰",
-        japAlias: ["津路", "参汰"]
-    },
-    MOIST:{
-        eng: "Moist",
-        engAlias: [],
-        jap: "Moist",
-        japAlias: []
-    },
-    FUUFUU:{
-        eng: "Fuufuu",
-        engAlias: ["Fufu"],
-        jap: "フーフー",
-        japAlias: []
-    },
-    MIZURYU_KEI:{
-        eng: "Mizuryu Kei",
-        engAlias: ["Mizuryu Kei", "Mizuryu", "Kei"],
-        jap: "",
-        japAlias: []
-    },  
-    BUTCHA_U:{
-        eng: "Butcha-U",
-        engAlias: ["Butcha-U", "Butcha", "U"],
-        jap: "",
-        japAlias: []
-    },  
-    ERECT_SAWARU:{
-        eng: "Erect Sawaru",
-        engAlias: ["Erect Sawaru", "Erect", "Sawaru"],
-        jap: "",
-        japAlias: []
-    },  
-    ZUNTA:{
-        eng: "Zunta",
-        engAlias: ["Zunta", "", ""],
-        jap: "",
-        japAlias: []
-    },
-    SABUROU:{
-        eng: "Saburou",
-        engAlias: [],
-        jap: "サブロー",
-        japAlias: []
-    },
-    SAGE_JOH:{
-        eng: "Sage Joh",
-        engAlias: ["Sage", "Joh"],
-        jap: "sage・ジョー",
-        japAlias: ["ジョー"]
-    },
-    TSUNE:{
-        eng: "Tsune",
-        engAlias: [],
-        jap: "常",
-        japAlias: []
-    },
-    IGNORE:{
+    NULL: {
         eng: "",
         engAlias: [],
         jap: "",
         japAlias: []
-    }
-    */
-};
+    },};
 
 var CV = {
-    /*
-    NAKASE_HINA: {
-        eng: "Nakase Hina",
-        engAlias: ["Nakase", "Hina Nakase", "Hina"],
-        jap: "なかせひな",
-        japAlias: ["なかせ", "ひな", "中瀬ひな", "中瀬"]
-    },
-    TAKANASHI_HANAMI: {
-        eng: "Takanashi Hanami",
-        engAlias: ["Takanashi", "Hanami Takanashi", "Hanami"],
-        jap: "高梨はなみ",
-        japAlias: ["高梨", "はなみ"]
-    },
-    KUROIWA_KOKO: {
-        eng: "Kuroiwa Koko",
-        engAlias: ["Kuroiwa", "Koko Kuroiwa", "Koko"],
-        jap: "黒岩心々",
-        japAlias: ["黒岩", "心々"]
-    },
-    KODAMA_SATOMI: {
-        eng: "Kodama Satomi",
-        engAlias: ["Kodama", "Satomi Kodama", "Satomi"],
-        jap: "児玉さとみ",
-        japAlias: ["児玉", "さとみ"]
-    },
-    MINASE_SAKI: {
-        eng: "Minase Saki",
-        engAlias: ["Minase", "Saki Minase", "Saki"],
-        jap: "水瀬沙季",
-        japAlias: ["水瀬", "沙季"]
-    },
-    SAKAKI_HARUNO: {
-        eng: "Sakaki Haruno",
-        engAlias: ["Sakaki", "Haruno Sakaki", "Haruno"],
-        jap: "榊木春乃",
-        japAlias: ["榊木", "春乃"]
-    },
-    KAWASE_YUZUKI: {
-        eng: "Kawase Yuzuki",
-        engAlias: ["Kawase", "Yuzuki Kawase", "Yuzuki", "Kawase Yudzuki", "Yudzuki Kawse", "Yudzuki", "Kawase Yuduki", "Yuduki Kawse", "Yusuki"],
-        jap: "川瀬ゆづき",
-        japAlias: ["川瀬", "川瀬ゆづき"]
-    },
-    TEZUKA_RYOUKO: {
-        eng: "Tezuka Ryouko",
-        engAlias: ["Tezuka", "Ryouko Tezuka", "Ryouko"],
-        jap: "手塚りょうこ",
-        japAlias: ["手塚", "りょうこ"]
-    },
-    HIMURO_YURI: {
-        eng: "Himuro Yuri",
-        engAlias: ["Himuro", "Yuri Himuro", "Yuri"],
-        jap: "氷室百合",
-        japAlias: ["氷室", "百合", "氷室ゆり", "ゆり", "ひむろゆり", "ひむろ"]
-    },
-    KITAITA_RIA: {
-        eng: "Kitaita Ria",
-        engAlias: ["Kitaita", "Ria Kitaita", "Ria"],
-        jap: "北板利亜",
-        japAlias: ["北板", "利亜"]
-    },
-    MOMOZONO_KAORU: {
-        eng: "Momozono Kaoru",
-        engAlias: ["Momozono", "Kaoru Momozono", "Kaoru"],
-        jap: "ももぞの薫",
-        japAlias: ["ももぞの", "薫"]
-    },
-    KANAN: {
-        eng: "Kanan",
-        engAlias: [],
-        jap: "花南",
-        japAlias: []
-    },
-    KAZARI_YUE: {
-        eng: "Kazari Yue",
-        engAlias: ["Kazari", "Yue Kazari", "Yue"],
-        jap: "かざりゆえ",
-        japAlias: ["かざり", "ゆえ"]
-    },
-    ITOU_SARA: {
-        eng: "Itou Sara",
-        engAlias: ["Itou", "Sara Itou", "Sara"],
-        jap: "伊東サラ",
-        japAlias: ["伊東", "サラ"]
-    },
-    KITANO_ARI: {
-        eng: "Kitano Ari",
-        engAlias: ["Kitano", "Ari Kitano", "Ari"],
-        jap: "木多野あり",
-        japAlias: ["木多野", "あり"]
-    },
-    FUIJI_NEKOKO: {
-        eng: "Fuiji Nekoko",
-        engAlias: ["Fuiji", "Nekoko Fuiji", "Nekoko"],
-        jap: "藤井ねここ",
-        japAlias: ["藤井", "ねここ"]
-    },
-    SHIRASE_HONAMI: {
-        eng: "Shirose Honami",
-        engAlias: ["Shirose", "Honami Shirose", "Honami"],
-        jap: "白瀬ほなみ",
-        japAlias: ["白瀬", "ほなみ"]
-    },
-    KAGUYA_RINKO: {
-        eng: "Kaguya Rinko",
-        engAlias: ["Kaguy", "Rinko Kaguya", "Rinko"],
-        jap: "かぐや凛子",
-        japAlias: ["かぐや", "凛子"]
-    },
-    SAKURA_MOMOKA: {
-        eng: "Sakura Momoka",
-        engAlias: ["Sakura", "Momoka Sakura", "Momoka"],
-        jap: "佐倉もも花",
-        japAlias: ["佐倉", "もも花"],
-        alias: ["TSUKIMURA_MISORA"]
-    },
-    NAKAYA_SHIHO: {
-        eng: "Nakaya Shiho",
-        engAlias: ["Nakaya", "Shiho Nakaya", "Shiho"],
-        jap: "中家志穂",
-        japAlias: ["中家", "志穂"]
-    },
-    SHIINA_AMANE: {
-        eng: "Shiina Amane",
-        engAlias: ["Shiina", "Amane Shiina", "Amane"],
-        jap: "椎那天",
-        japAlias: ["椎那", "天"]
-    },
-    KARASUMA_SORA: {
-        eng: "Karasuma Sora",
-        engAlias: ["Karasuma", "Sora Karasuma", "Sora"],
-        jap: "烏丸そら",
-        japAlias: ["烏丸", "そら"]
-    },
-    SENA_YUZUKI: {
-        eng: "Sena Yuzuki",
-        engAlias: ["Sena", "Yuzuki Sena", "Yuzuki"],
-        jap: "瀬名ゆず希",
-        japAlias: ["瀬名", "ゆず希"]
-    },
-    AOBA_RINGO: {
-        eng: "Aoba Ringo",
-        engAlias: ["Aoba", "Ringo Aoba", "Ringo"],
-        jap: "青葉りんご",
-        japAlias: ["青葉", "りんご"]
-    },
-    MITOU_SANA: {
-        eng: "Mitou Sana",
-        engAlias: ["Mitou", "Sana Mitou", "Sana"],
-        jap: "三十三七",
-        japAlias: ["三十", "三十三七"]
-    },
-    ICHINOSE_SAKURA: {
-        eng: "Ichinose Sakura",
-        engAlias: ["Ichinose", "Sakura Ichinose", "Sakura"],
-        jap: "一ノ瀬さくら",
-        japAlias: ["一ノ瀬", "さくら", "一之瀬さくら", "一之瀬"]
-    },
-    SAWASHIRO_RIZU: {
-        eng: "Sawashiro Rizu",
-        engAlias: ["Sawashiro", "Rizu Sawashiro", "Rizu"],
-        jap: "沢代りず",
-        japAlias: ["沢代", "りず"]
-    },
-    ARIGATOU: {
-        eng: "Arigatou",
-        engAlias: [],
-        jap: "有賀桃",
-        japAlias: []
-    },
-    HIIRAGI_NANA: {
-        eng: "Hiiragi Nana",
-        engAlias: ["Hiiragi", "Nana Hiiragi", "Nana"],
-        jap: "柊奈々",
-        japAlias: ["柊", "奈々"]
-    },
-    KAZUHA: {
-        eng: "Kazuha",
-        engAlias: [],
-        jap: "和葉",
-        japAlias: []
-    },
-    TSUKIMURA_MISORA: {
-        eng: "Tsukimura Misora",
-        engAlias: ["Tsukimura", "Misora Tsukimura", "Misora"],
-        jap: "月村美空",
-        japAlias: ["月村", "美空"],
-        alias: ["SAKURA_MOMOKA"]
-    },
-    ENOKIZU_MAO: {
-        eng: "Enozuki Mao",
-        engAlias: ["Enozuki", "Mao Enozuki", "Mao"],
-        jap: "榎津まお",
-        japAlias: ["榎津", "まお"]
-    },
-    NIIYAMA_YUUKI: {
-        eng: "Niiyama Yuuki",
-        engAlias: ["Niiyama", "Yuuki Niiyama", "Yuuki"],
-        jap: "新山ゆうき",
-        japAlias: ["新山", "ゆうき"]
-    },
-    SHIPPU_HARU: {
-        eng: "Shippu Haru",
-        engAlias: ["Shippu", "Haru Shippu", "Haru"],
-        jap: "疾風はる",
-        japAlias: ["疾風", "はる"]
-    },
-    HARUNA_REN: {
-        eng: "Haruna Ren",
-        engAlias: ["Haruna", "Ren Haurna", "Ren"],
-        jap: "榛名れん",
-        japAlias: ["榛名", "れん"]
-    },
-    HOSHI_MOERU: {
-        eng: "Hoshi Moeru",
-        engAlias: ["Hoshi", "Moeru Hoshi"],
-        jap: "星もえる",
-        japAlias: ["星", "もえる", "ホシモエル", "ホシ", "モエル"]
-    },
-    AOGIRI_KAKO: {
-        eng: "Aogiri Kako",
-        engAlias: ["Aogiri", "Kako Aogiri", "Kako"],
-        jap: "蒼桐かこ",
-        japAlias: ["蒼桐", "かこ"]
-    },
-    UMEHARA_AI: {
-        eng: "Umehara Ai",
-        engAlias: ["Umehara", "Ai Umehara", "Ai"],
-        jap: "梅原亜衣",
-        japAlias: ["梅原", "亜衣"]
-    },
-    NAKANO_SHINO: {
-        eng: "Nakano Shino",
-        engAlias: ["Nakano", "Shino Nakano", "Shino"],
-        jap: "中野志乃",
-        japAlias: ["中野", "志乃"]
-    },
-    MIYAMORI_YUU: {
-        eng: "Miyamori Yuu",
-        engAlias: ["Miyamori", "Yuu Miyamori", "Yuu"],
-        jap: "宮森ゆう",
-        japAlias: ["宮森", "ゆう"]
-    },
-    AOI_MIU: {
-        eng: "Aoi Miu",
-        engAlias: ["Aoi", "Miu Aoi", "Miu"],
-        jap: "青井美海",
-        japAlias: ["青井", "美海"]
-    },
-    SUAMA_CHIYOKO: {
-        eng: "Suama Chiyoko",
-        engAlias: ["Suama", "Chiyoko Suama", "Chiyoko"],
-        jap: "須天ちよこ",
-        japAlias: ["須天", "ちよこ"]
-    },
-    HOSHIZORA_YUME: {
-        eng: "Hoshizora Yume",
-        engAlias: ["Hoshizora", "Yume Hoshizora", "Yume"],
-        jap: "星空ユメ",
-        japAlias: ["星空", "ユメ"]
-    },
-    TSURUYA_HARUTO: {
-        eng: "Tsuruya Haruto",
-        engAlias: ["Tsuruya", "Haruto Tsuruya", "Haruto"],
-        jap: "鶴屋春人",
-        japAlias: ["鶴屋", "春人"]
-    },
-    KONOE_YUZUKO: {
-        eng: "Konoe Yuzuko",
-        engAlias: ["Konoe", "Yuzuko Konoe", "Yuzuko"],
-        jap: "このえゆずこ",
-        japAlias: ["このえ", "ゆずこ"]
-    },
-    HAZUKI_MAACHI: {
-        eng: "Hazuki Maachi",
-        engAlias: ["Hazuki", "Maachi Hazuki", "Maachi", "Hadzuki Maachi", "Hadzuki", "Maachi Hadzuki", "Haduki Maachi", "Haduki", "Maachi Haduki"],
-        jap: "葉月まぁち",
-        japAlias: ["葉月", "まぁち"],
-        alias: ["HAYASE_YAYOI"]
-    },
-    TAMIYASU_TOMOE: {
-        eng: "Tamiyasu Tomoe",
-        engAlias: ["Tamiyasu", "Tomoe Tamiyasu", "Tomoe"],
-        jap: "民安ともえ",
-        japAlias: ["民安", "ともえ", "たみやすともえ", "たみやす"]
-    },
-    KARIN_TOUKA: {
-        eng: "Karin Touka",
-        engAlias: ["Karin", "Touka Karin", "Touka"],
-        jap: "かりんとうか",
-        japAlias: ["かりん", "とうか"]
-    },
-    KASE_SHIU: {
-        eng: "Kase Shiu",
-        engAlias: ["Kase", "Shiu Kase", "Shiu"],
-        jap: "鹿瀬紫卯",
-        japAlias: ["鹿瀬", "紫卯"]
-    },
-    MISONOO_MEI: {
-        eng: "Misonoo Mei",
-        engAlias: ["Misonoo", "Mei Misonoo", "Mei"],
-        jap: "御苑生メイ",
-        japAlias: ["御苑生", "メイ"]
-    },
-    AIKAWA_SHION: {
-        eng: "Aikawa Shion",
-        engAlias: ["Aikawa", "Shion Aikawa", "Shion"],
-        jap: "藍河しおん",
-        japAlias: ["藍河", "しおん"]
-    },
-    KASHIWAGI_AIKA: {
-        eng: "Kashiwagi Aika",
-        engAlias: ["Kashiwagi", "Aika Kashiwagi", "Aika"],
-        jap: "柏木逢花",
-        japAlias: ["柏木", "逢花"]
-    },
-    MINASE_YUUNA: {
-        eng: "Minase Yuuna",
-        engAlias: ["Minase", "Yuuna Minase", "Yuuna"],
-        jap: "水瀬優奈",
-        japAlias: ["水瀬", "優奈"]
-    },
-    HAZUKI_AKARI: {
-        eng: "Hazuki Akari",
-        engAlias: ["Hazuki", "Akari Hazuki", "Akari", "Hadzuki Akari", "Hadzuki", "Akari Hadzuki", "Haduki Akari", "Haduki", "Akari Haduki"],
-        jap: "葉月あかり",
-        japAlias: ["葉月", "あかり"]
-    },
-    KANAE_MIYUKI: {
-        eng: "Kanae Miyuki",
-        engAlias: ["Kanae", "Miyuki Kanae", "Miyuki"],
-        jap: "叶みゆき",
-        japAlias: ["叶", "みゆき"]
-    },
-    HIMEKAWA_AIRI: {
-        eng: "Himekawa Airi",
-        engAlias: ["Himekawa", "Airi Himekawa", "Airi"],
-        jap: "姫川あいり",
-        japAlias: ["姫川", "あいり"]
-    },
-    AYANE_MAKO: {
-        eng: "Ayane Mako",
-        engAlias: ["Ayane", "Mako Ayane", "Mako"],
-        jap: "綾音まこ",
-        japAlias: ["綾音", "まこ"]
-    },
-    MISUMI_NANAHO: {
-        eng: "Misumi Nanaho",
-        engAlias: ["Misumi", "Nanaho Misumi", "Nanaho"],
-        jap: "水純なな歩",
-        japAlias: ["水純", "なな歩"]
-    },
-    UNEMU_ZAKURO: {
-        // Fuck knows, Not on VNDB and Jisho doesn't give anything
-        eng: "Unemu Zakuro",
-        engAlias: ["Unemu", "Zakuro Unemu", "Zakuro"],
-        jap: "卯眠ざくろ",
-        japAlias: ["卯眠", "ざくろ"]
-    },
-    HAYASE_YAYOI: {
-        eng: "Hayase Yayoi",
-        engAlias: ["Hayase", "Yayoi Hayase", "Yayoi"],
-        jap: "早瀬ゃょぃ",
-        japAlias: ["早瀬", "ゃょぃ", "早瀬やよい", "やよい"],
-        alias: ["HAZUKI_MAACHI"]
-    },
-    AKASHI_YUKI: {
-        eng: "Akashi Yuki",
-        engAlias: ["Akashi", "Yuki Akashi", "Yuki"],
-        jap: "あかしゆき",
-        japAlias: ["あかし", "ゆき"]
-    },
-    INEMURI_SUYAKO: {
-        eng: "Inemuri Suyako",
-        engAlias: ["Inemuri", "Suyako Inemuri", "Suyako"],
-        jap: "いねむりすやこ",
-        japAlias: ["いねむり", "すやこ"]
-    },
-    AI_HARUKA:{
-        eng: "Ai Haruka",
-        engAlias: ["Ai", "Haruka Ai", "Haruka"],
-        jap: "愛遙花",
-        japAlias: ["愛", "遙花"]
-    },
-    TOUDOU_MISAKI:{
-        eng: "Toudo Misaki",
-        engAlias: ["Toudo", "Misaki Toudo", "Misaki"],
-        jap: "藤堂みさき",
-        japAlias: ["藤堂", "みさき"]
-    },
-    FUJIYOSHI_ROSE:{
-        // Fujiyoshi or Toukichi
-        eng: "Fujiyoshi Rose",
-        engAlias: ["Fujiyoshi", "Rose Fujiyoshi", "Rose"],
-        jap: "藤吉ローズ",
-        japAlias: ["藤吉", "ローズ"]
-    },
-    KUSAYANAGI_JUNKO:{
-        eng: "Kusayanagi Junko",
-        engAlias: ["Kusayanagi", "Junko Kusayanagi", "Junko"],
-        jap: "草柳順子",
-        japAlias: ["草柳", "順子"]
-    },
-    HIROKAWA_KOTONE:{
-        eng: "Hirokawa Kotone",
-        engAlias: ["Hirokawa", "Kotone Hirokawa", "Kotone"],
-        jap: "紘川琴音",
-        japAlias: ["紘川", "琴音"]
-    },
-    SUMISHIRO_KIYOKA:{
-        eng: "Sumishiro Kiyoka",
-        engAlias: ["Sumishiro", "Kiyoka Sumishiro", "Kiyoka"],
-        jap: "澄白キヨカ",
-        japAlias: ["澄白", "キヨカ"]
-    },
-    KAWASHIMA_RINO:{
-        eng: "Kawashima Rino",
-        engAlias: ["Kawashima", "Rino Kawashima", "Rino"],
-        jap: "かわしまりの",
-        japAlias: ["かわしま", "りの"]
-    },
-    KASUMI_RYOU:{
-        eng: "Kasumi Ryou",
-        engAlias: ["Kasumi", "Ryou Kasumi", "Ryou"],
-        jap: "香澄りょう",
-        japAlias: ["香澄", "りょう"]
-    },
-    MOMOI_HAZUKI:{
-        eng: "Momoi Hazuki",
-        engAlias: ["Momoi", "Hazuki Momoi", "Hazuki"],
-        jap: "桃井葉月",
-        japAlias: ["桃井", "葉月"]
-    },
-    MAKIKO:{
-        eng: "Makiko",
-        engAlias: [],
-        jap: "魔希子",
-        japAlias: []
-    },
-    YOSHINAKA_AI:{
-        eng: "Yoshinaka Ai",
-        engAlias: ["Yoshinaka", "Ai Yoshinaka", "Ai"],
-        jap: "義仲愛",
-        japAlias: ["義仲", "愛"]
-    },
-    TAKEDA_AMANE:{
-        eng: "Takeda Amane",
-        engAlias: ["Takeda", "Amane Takeda", "Amane"],
-        jap: "武田あまね",
-        japAlias: ["武田", "あまね"]
-    },
-    SATOU_HARUKA:{
-        eng: "Satou Haruka",
-        engAlias: ["Satou", "Haruka Satou", "Haruka"],
-        jap: "佐藤遼佳",
-        japAlias: ["佐藤", "遼佳"]
-    },
-    KANO_MILK:{
-        eng: "Kano Milk",
-        engAlias: [],
-        jap: "加乃みるく",
-        japAlias: []
-    },
-    KOZUKI_KANAMI:{
-        eng: "Kozuki Kanami",
-        engAlias: ["Kozuki", "Kanami Kozuki", "Kanami"],
-        jap: "紅月奏美",
-        japAlias: ["紅月", "奏美"]
-    },
-    MITA_KAREN:{
-        eng: "Mita Karen",
-        engAlias: ["Mita", "Karen Mita", "Karen"],
-        jap: "美田香恋",
-        japAlias: ["美田", "香恋"]
-    },
-    SUGIHARA_MATSURI:{
-        eng: "Sugihara Matsuri",
-        engAlias: ["Sugihara", "Matsuri Sugihara", "Matsuri"],
-        jap: "杉原茉莉",
-        japAlias: ["杉原", "茉莉"]
-    },
-    AONO_MUSUBI:{
-        eng: "Aono Musubi",
-        engAlias: ["Aono", "Musubi Aono", "Musubi"],
-        jap: "蒼乃むすび",
-        japAlias: ["蒼乃", "むすび"]
-    },
-    MAYURI:{
-        eng: "Mayuri",
-        engAlias: [],
-        jap: "麻優莉",
-        japAlias:[]
-    },
-    SUPER_SONICO:{
-        eng: "Super Sonico",
-        engAlias: ["Sonico"],
-        jap: "すーぱーそに子",
-        japAlias:["そに子"]
-    },
-    HIGASHI_SHIZU:{
-        eng: "Higashi Shizu",
-        engAlias: ["Higashi", "Shizu Higashi", "Shizu"],
-        jap: "東シヅ",
-        japAlias: ["東", "シヅ"]
-    },
-    UMEKI_CHIHARU:{
-        eng: "Umeki Chiharu",
-        engAlias: ["Umeki", "Chiharu Umeki", "Chiharu"],
-        jap: "梅木ちはる",
-        japAlias: ["梅木", "ちはる"]
-    },
-    MINAMIJUUJI_ISSEI:{
-        eng: "Minamijuuji Issei",
-        engAlias: ["Minamijuuji", "Issei Minamijuuji", "Issei"],
-        jap: "南十字いっせい",
-        japAlias: ["南十字", "いっせい"]
-    },
-    TACHIBANA_SARA:{
-        eng: "Tachibana Sara",
-        engAlias: ["Tachibana", "Sara Tachibana", "Sara"],
-        jap: "立花沙羅",
-        japAlias: ["立花", "沙羅"]
-    },
-    SHINOMIYA_TSUBAME:{
-        eng: "Shinomiya Tsubame",
-        engAlias: ["Shinomiya", "Tsubame Shinomiya", "Tsubame"],
-        jap: "新宮つばめ",
-        japAlias: ["新宮", "つばめ"]
-    },
-    YAMATO_SAKURA:{
-        eng: "Yamato Sakura",
-        engAlias: ["Yamato", "Sakura Yamato", "Sakura"],
-        jap: "大和桜",
-        japAlias: ["大和", "桜"]
-    },
-    FURUSAWA_REI:{
-        eng: "Furusawa Rei",
-        engAlias: ["Furusawa", "Rei Furusawa"],
-        jap: "降沢れい",
-        japAlias: ["降沢", "れい"]
-    },
-    NOHANA:{
-        eng: "Nohana",
-        engAlias: [],
-        jap: "乃葉奈",
-        japAlias: []
-    },
-    AOI_TOKIO:{
-        eng: "Aoi Tokio",
-        engAlias: ["Aoi", "Tokio Aoi", "Tokio"],
-        jap: "葵時緒",
-        japAlias: ["葵", "時緒"]
-    },
-    AIBU_EMIRI:{
-        eng: "Aibu Emiri",
-        engAlias: ["Aibu Emily", "Aibu", "Emiri Aibu", "Emiri", "Emily Aibu", "Emily"],
-        jap: "愛部えみり",
-        japAlias: ["愛部", "えみり"]
-    },
-    MUGIME_PURIN:{
-        eng: "Mugime Purin",
-        engAlias: ["Mugime", "Purin Mugime", "Purin"],
-        jap: "麦芽ぷりん",
-        japAlias: ["麦芽", "ぷりん"]
-    },
-    MUKAI_REN:{
-        eng: "Mukai Ren",
-        engAlias: ["Mukai", "Ren Mukai", "Ren"],
-        jap: "向井れん",
-        japAlias: ["向井", "れん"]
-    },
-    AZUMA_KARIN:{
-        eng: "Azuma Karin",
-        engAlias: ["Azuma", "Karin Azuma", "Karin"],
-        jap: "東かりん",
-        japAlias: ["東", "かりん"]
-    },
-    HANAZE_CHII:{
-        eng: "Hanaze Chii",
-        engAlias: ["Hanaze", "Chii Hanaze", "Chii"],
-        jap: "羽真ちい",
-        japAlias: ["羽真", "ちい"]
-    },
-    YAMANAMI_NEMU:{
-        eng: "Yamanami Nemu",
-        engAlias: ["Yamanami", "Nemu Yamanami", "Nemu"],
-        jap: "山南音夢",
-        japAlias: ["山南", "音夢"]
-    },
-    IGASAKI_AYAKA:{
-        eng: "Igasaki Ayaka",
-        engAlias: ["Igasaki", "Ayaka Igasaki", "Ayaka"],
-        jap: "伊ヶ崎綾香",
-        japAlias: ["伊ヶ崎", "綾香"]
-    },
-    FUJIIRO_SAKU:{
-        eng: "Fujiiro Saku",
-        engAlias: ["Fujiiro", "Saku Fujiiro", "Saku"],
-        jap: "藤色朔",
-        japAlias: ["藤色", "朔"]
-    },
-    HAINE:{
-        eng: "Haine",
-        engAlias: [],
-        jap: "灰音",
-        japAlias: []
-    },
-    KATAKURA_HINA:{
-        eng: "Katakura Hina",
-        engAlias: ["Katakura", "Hina Katakura", "Hina"],
-        jap: "片倉ひな",
-        japAlias: ["片倉", "ひな"]
-    },
-    ISHIKAWA_MII:{
-        eng: "Ishikawa Mii",
-        engAlias: ["Ishikawa", "Mii Ishikawa", "Mii"],
-        jap: "市川みぃ",
-        japAlias: ["市川", "みぃ"]
-    },
-    YONKUCHISAKA_MITSUNA:{
-        eng: "Yonkuchisaka Mitsuna",
-        engAlias: ["Yonkuchisaka", "Mitsuna Yonkuchisaka"],
-        jap: "四口坂蜜菜",
-        japAlias: ["四口坂", "蜜菜"]
-    },
-    AKAI_RIA:{
-        eng: "Akai Ria",
-        engAlias: ["Akai", "Ria Akai", "Ria"],
-        jap: "赤井リア",
-        japAlias: ["赤井", "リア"]
-    },
-    HOSHI_RIRUKA:{
-        eng: "Hoshi Riruka",
-        engAlias: ["Hoshi", "Riruka Hoshi", "Riruka"],
-        jap: "星リルカ",
-        japAlias: ["星", "リルカ"]
-    },
-    KOIBANE_MOKO:{
-        eng: "Koibane Moko",
-        engAlias: ["Koibane", "Moko Koibane", "Moko"],
-        jap: "恋羽もこ",
-        japAlias: ["恋羽", "もこ"]
-    },
-    NANASE_PANDA:{
-        eng: "Nanase Panda",
-        engAlias: ["Nanase", "Panda Nanase", "Panda"],
-        jap: "七瀬ぱんだ",
-        japAlias: ["七瀬", "ぱんだ"]
-    },
-    FUJINOMIYA_KISEKI:{
-        eng: "Fujinomiya Kiseki",
-        engAlias: ["Fujinomiya", "Kiseki Fujinomiya", "Kiseki"],
-        jap: "藤宮きせき",
-        japAlias: ["藤宮", "きせき"]
-    },
-    FUJINO_MURASAKI:{
-        eng: "Fujino Murasaki",
-        engAlias: ["Fujino", "Murasaki Fujino", "Murasaki"],
-        jap: "藤野むらさき",
-        japAlias: ["藤野", "むらさき"]
-    },
-    IGNORE:{
+    NULL: {
         eng: "",
         engAlias: [],
         jap: "",
         japAlias: []
-    }
-    */
+    },
 };
 
 var TAG = {
@@ -4006,80 +3113,163 @@ var TAG = {
 };
 
 var CHAR = {
-    /*
-    FUUMA_KOTAROU:{
-        base:{
-            name:{
-                eng:"Fuuma Kotarou",
-                engAlias:["Fuuma", "Kotarou Fuuma", "Kotarou", "MC", "Main Character", "Protagonist", "Protag"],
-                jap:"ふうま小太郎",
-                japAlias:["ふうま", "小太郎"]
+    COCO_COOKIE: {
+        base: {
+            name: {
+                eng: "Coco Cookie",
+                engAlias: ["Coco"],
+                jap: "可可曲奇",
+                japAlias: ["可可"]
             },
-            tags:[
-               TAG.DARK_SKIN
+            tags: [
+                TAG.FLAT_CHESTED, TAG.TINY, TAG.LIGHT_SKIN
             ],
-            gender:"male",
-            focus:false,
-            // Ignored on male chars
-            originalCharacter:false,
-            artist:ARTIST.IGNORE,
-            cv:CV.IGNORE
+            gender: "female",
+            originalCharacter: true,
+            artist: ARTIST.NULL,
+            cv: CV.NULL
         }
     },
-    REAL:{
-        base:{
-            name:{
-                eng:"Real",
-                engAlias:[],
-                jap:"リーアル",
-                japAlias:[]
+    PRISCILLA: {
+        base: {
+            name: {
+                eng: "Priscilla",
+                engAlias: [],
+                jap: "普利希亚",
+                japAlias: []
             },
-            tags:[
-                // Most male tags should be added in the scene
-               TAG.CHUBBY
+            tags: [
+                TAG.FLAT_CHESTED, TAG.TINY, TAG.LIGHT_SKIN
             ],
-            gender:"male",
-            focus:false,
-            // Ignored on male chars
-            originalCharacter:false,
-            artist:ARTIST.IGNORE,
-            cv:CV.IGNORE
+            gender: "female",
+            originalCharacter: true,
+            artist: ARTIST.NULL,
+            cv: CV.NULL
         }
     }
-    */
 };
 
 var SCENE = {
-    /*
-    "0001_1":{
-        character: [CHAR.AKIYAMA_RINKO, CHAR.FUUMA_KOTAROU],
-        tags:{
-            female:[
-                TAG.TAIMANIN_OUTFIT, TAG.CROTCHLESS_CLOTHING, TAG.RIPPED_CLOTHING, TAG.VAGINAL_STICKER, TAG.GAUNTLETS,
-                TAG.LEGS_PULLED_UP,
-                TAG.ANAL_FINGERING, TAG.ANAL_BEADS, TAG.SWEATING
-            ],
-            male:[],
-            location:[TAG.BEDROOM, TAG.ON_BED, TAG.PRIVATE],
-            misc:[TAG.NO_SEX, TAG.CUT_IN_XRAY]
+   "1601720121": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.ORAL_SEX, TAG.HANDJOB, TAG.PAIZURI],
+            male: [],
+            location: [TAG.INSIDE],
+            misc: []
         },
-        ignoredCharacterTags:[],
-        nextScene:"0001_2"
+        ignoredCharacterTags: []
     },
-    "0001_2":{
-        character: [CHAR.AKIYAMA_RINKO, CHAR.FUUMA_KOTAROU],
-        tags:{
-            female:[
-                TAG.COMPLETELY_NAKED, TAG.VAGINAL_STICKER,
-                TAG.DOGGY_STYLE, TAG.ANAL_SEX, TAG.VAGINAL_SEX, TAG.DEFLORATION, TAG.NAKADASHI, TAG.SWEATING
-            ],
-            male:[],
-            location:[TAG.BEDROOM, TAG.PRIVATE],
-            misc:[TAG.CUT_IN_XRAY]
+    "1601720122": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.DEFLORATION],
+            male: [],
+            location: [TAG.INSIDE],
+            misc: []
         },
-        ignoredCharacterTags:[]
+        ignoredCharacterTags: []
+    },
+    "1601720131": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.LIVING_DOLL],
+            male: [],
+            location: [TAG.LABORATORY],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "1601720132": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.NAKADASHI],
+            male: [],
+            location: [TAG.INSIDE],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "1601720151": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.ON_DESK, TAG.NAKADASHI],
+            male: [],
+            location: [TAG.INSIDE],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "1601720221": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.ORAL_SEX, TAG.CUNNILINGUS, TAG.SIXTY_NINE, TAG.CUM_IN_MOUTH],
+            male: [],
+            location: [TAG.INSIDE],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "1601720222": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.NAKADASHI],
+            male: [],
+            location: [TAG.INSIDE],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "1601720231": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.MASTURBATION, TAG.VAGINAL_INSERTION, TAG.SQUIRTING],
+            male: [],
+            location: [TAG.INSIDE],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "1601720321": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.BLOWJOB, TAG.WEDDING_DRESS, TAG.CUM_IN_MOUTH, TAG.CUM_SWALLOWING],
+            male: [],
+            location: [TAG.CHURCH],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "1601720322": {
+        character: [CHAR.COCO_COOKIE],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.WEDDING_DRESS, TAG.NAKADASHI],
+            male: [],
+            location: [TAG.CHURCH],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "1602110121": {
+        character: [CHAR.PRISCILLA],
+        tags: {
+            female: [TAG.HANDJOB, TAG.BLOWJOB, TAG.NEKOMIMI, TAG.TAIL],
+            male: [],
+            location: [TAG.INSIDE],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "1602110122": {
+        character: [CHAR.PRISCILLA],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.NEKOMIMI, TAG.TAIL, TAG.NAKADASHI],
+            male: [],
+            location: [TAG.BEDROOM],
+            misc: []
+        },
+        ignoredCharacterTags: []
     }
-    */
 };
 
 
