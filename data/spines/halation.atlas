@@ -1,0 +1,27 @@
+
+halation.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hal_hosi
+  rotate: true
+  xy: 2, 147
+  size: 36, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+hal_wa01
+  rotate: false
+  xy: 110, 110
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+hal_wa02
+  rotate: false
+  xy: 41, 116
+  size: 67, 67
+  orig: 73, 73
+  offset: 3, 3
+  index: -1

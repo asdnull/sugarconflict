@@ -1,0 +1,9 @@
+{
+  "name": "sugar_conflict_x_viewer",
+  "main": "Sugar Conflict X Viewer.html",
+  "window": {
+    "width": 1420,
+    "height": 900,
+    "icon": "data/ui/favicon.png"
+  }
+}

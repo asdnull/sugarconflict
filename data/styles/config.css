@@ -1,0 +1,31 @@
+:root {
+
+    --scene-width: 1280px;
+    --scene-height: 720px;
+
+    --font-text: "rodincattleyapro";
+    --font-name: "rodincattleyapro";
+
+    --name-plate-opacity: 1.0;
+    --text-box-opacity: 0.5;
+
+    /* These are also set dynamically in javascript in the function calculateCGSize(),
+    so check the HTML element's inline style attribute for it's current values */
+    --cg-width: 256px;
+    --cg-height: 144px;
+    --cg-spacing: 10px;
+    --cg-columns: 6;
+    --cg-rows: 6;
+
+    --ui-animation-speed: 1000ms;
+    --scrollbar-width: 0px;
+    /*
+    --jp-font: "noto sans jp", "IPAexGothic";
+    */
+    
+    --eng-font: Helvetica;
+    --viewerScale: 1.0;
+
+    --quakeStrength: 0.5;
+}
+

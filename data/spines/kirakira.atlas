@@ -1,0 +1,27 @@
+
+kirakira.webp
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kira_wa01
+  rotate: false
+  xy: 2, 140
+  size: 63, 63
+  orig: 67, 67
+  offset: 2, 2
+  index: -1
+kira_wa02
+  rotate: false
+  xy: 132, 132
+  size: 71, 71
+  orig: 73, 73
+  offset: 1, 1
+  index: -1
+kirakira02
+  rotate: false
+  xy: 67, 140
+  size: 63, 63
+  orig: 73, 73
+  offset: 5, 5
+  index: -1

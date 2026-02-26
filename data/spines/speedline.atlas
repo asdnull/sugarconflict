@@ -1,0 +1,13 @@
+
+speedline.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ssQ
+  rotate: false
+  xy: 2, 114
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: -1
