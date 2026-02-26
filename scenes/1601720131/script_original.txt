@@ -1,0 +1,1690 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1957580321982372817
+  },
+  "m_Name": "1601720131",
+  "isEro": 1,
+  "resourceList": [],
+  "storyList": [
+    {
+      "idx": 1,
+      "command": 9,
+      "target": "bgm009",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 2,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "月明かりの射す工房──\n人形職人の私はある人形を前に、その冷たい頬を優しく撫でていた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 3,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "自身が手がけた最高傑作のビスクドール、ココアクッキー。\nあろうことか、私は彼女に恋をしてしまっている。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 4,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "だが、注文を受けて作られた彼女は明日には納品されてしまう。\nもう二度と、彼女には会えなくなる。\nそれならば……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 5,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "いけないとわかっていながらも、\n高鳴る鼓動と共にあふれ出す想いを止めることはできなかった。\n私はココアクッキーをシーツに横たえ、その白い肌に手を伸ばし──",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 6,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene1",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 7,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 8,
+      "command": 12,
+      "target": "",
+      "xPos": -320,
+      "yPos": -200,
+      "scale": 1.8,
+      "args": "",
+      "anim": "",
+      "time": 0.1,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 9,
+      "command": 7,
+      "target": "fadein",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 10,
+      "command": 15,
+      "target": "blink",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 11,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 3.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 12,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 13,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 14,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 15,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv90",
+      "cName": "ココアクッキー",
+      "text": "……あっ！　んう……んっ……？\nおとう、さま……？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 16,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "輪郭をなぞるように柔肌へ指先を這わせていると、\n驚くことに、人形であるココアクッキーが反応を示した。\nこれは……愛の力が起こした、奇跡なのだろうか……？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 17,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv91",
+      "cName": "ココアクッキー",
+      "text": "うっ……んっ……！\nおと、さま……！　恥ずかしいっ、よぉ……っん！　ふっ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 18,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv92",
+      "cName": "ココアクッキー",
+      "text": "ぜんぶ、んっ……見えちゃう……！\nここあの、恥かしいところ……！　ん、んっ……！\n見ないで……！　おとうさまぁ……あっ！ んんっ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 19,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "あらわになった彼女の秘部から、とろとろの透明な蜜があふれ出す。\n淫らな糸を引きながらひくひくと痙攣するそこは、\nまるで私を誘っているようだ。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 20,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 21,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene3",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 22,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 23,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv93",
+      "cName": "ココアクッキー",
+      "text": "んっ……あっ！　はっ、はっ、んんぅ……んうぅっ！\n入って、くる……っ！　おとう、さまの……熱い、……んっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 24,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv94",
+      "cName": "ココアクッキー",
+      "text": "おっきくて……あ、ぁ！　ここあのおなかっ、いっぱいになる……！　\nはぁ、はぁ、んっ……あっ、あっ、アッ！！ ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 25,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv95",
+      "cName": "ココアクッキー",
+      "text": "んぁあっ……！　はぁ、おとうさま……っ！ 　んっうんん……っ！\nここあのなか、きもちっ……いいの？　ここあ、えらい……っ？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 26,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "初めて聞くココアクッキーの声はやや平坦で控えめな印象だ。\nしかし、その声に少しずつ甘い色が混ざりはじめる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 27,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv96",
+      "cName": "ココアクッキー",
+      "text": "あっ、ん……んんうっ！　ここ、ここに……んっ！\nおとうさまの……入ってるのっ……！　あ、あん！　あうぅ……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 28,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv97",
+      "cName": "ココアクッキー",
+      "text": "ここあの……っお！　お、おなか……っあ、あぁ！\nぽっこりした、り……！　へこんだりしてるの……んっ、あ、あんぁ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 29,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv98",
+      "cName": "ココアクッキー",
+      "text": "へ、変な声で、ちゃっ……んあぁっ！\nあっ……あっ、あうぅっ……っ！　あ、あっ！\nきもち、いいよぉ……っ！　ん、ん……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 30,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv99",
+      "cName": "ココアクッキー",
+      "text": "んんんっ……う、んあっ！　あっ、あっ、動いちゃっ……うっ！\nかってに、からだっ……揺れちゃっ、う……っあん、うあんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 31,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "薔薇色に染まった頬、だらしなく半開きになった唇……。\n煽情的に乱れる彼女は、私の興奮を否応なく刺激する。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 32,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "募る劣情ののままに、彼女の細い体に腰を打ちつけると、\nそれに合わせて内壁が吸いついてくる。\n……まるで、どこにも行かないでとすがりついてくるようだ。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 33,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv100",
+      "cName": "ココアクッキー",
+      "text": "ごめ、んなさい……ふぁっ、あん！　おとう、さまぁっ……！\nここあ、勝手にきもちよくなっちゃう……あっ、あっ！\nわるいこで、ごめんなさいっ……んあんっ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 34,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv101",
+      "cName": "ココアクッキー",
+      "text": "あっ、アッ、んんっぐっ！　こわい、よぉ……っ！\nおなかの、おくっ、先っぽでトントンされると……おっ、んあぁ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 35,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv102",
+      "cName": "ココアクッキー",
+      "text": "ここあ、おかしっ、ぐぅっ……！　なっちゃ……ぅあんっ！　あんっ！\nあ、ひぁっ……きもひ、いいよぉ……あっ、うぁあんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 36,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "グラスアイのように澄んだ瞳から雫をぽろぽろと流し、\n悲しげな喘ぎ声をあげる愛しいココアクッキー。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 37,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "そんな彼女の泣き顔に胸が痛んだ私は、\n思わず夢中で振っていた腰の速度を緩めた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 38,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "頬の涙をそっと指で拭い「怖い思いをさせてすまない」そう謝ると、\n彼女は私の手のひらに頬をすり寄せ、甘えてきた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 39,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv103",
+      "cName": "ココアクッキー",
+      "text": "ううん……大丈夫。\nあのね、ここあ今、とっても幸せなの……んっ、\n大好きなおとうさまと、つながれて……ひとつになれて……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 40,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv104",
+      "cName": "ココアクッキー",
+      "text": "おとうさまのためなら……んんっ、ここあ、なんでもできる。\nだから、お願いっ、んっあ……やめないで？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 41,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv105",
+      "cName": "ココアクッキー",
+      "text": "ここあで、いっぱい……きもちよくなって？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 42,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "純粋無垢な彼女のアイドームには、ただひとり私だけが映っている。\nその事実に、腰から燃え上がるような興奮が湧き出てきた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 43,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "彼女の願いと私の想いは一緒だ。それならもう、何も迷うことはない。\n私は彼女が先ほど甘い悲鳴を上げていた場所をめがけ、\n腰を何度も強く打ちつけた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 44,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 45,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene4",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 46,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 47,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 48,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv106",
+      "cName": "ココアクッキー",
+      "text": "ひっ、……ああぅっ！　ぃっ、あ、ぁ……ぅあんっ！\nひゃああぁんっ！　そこっ、そこぉっ……なのっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 49,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv107",
+      "cName": "ココアクッキー",
+      "text": "ここあが、あっ、あぁっ……おかしくなっちゃうところ……っ！\nあ、あぁあっん！　きもち、い……よぉ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 50,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv108",
+      "cName": "ココアクッキー",
+      "text": "ぇうっ……！　ん、んあっあっ……あんぅっ！\nここあのおなかっ、おとうさまで、いっぱいっ……えへへ、ひあっ！\nうれし、いっ……！　あ、ぁ……んんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 51,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "動くたびにギシギシと軋む、彼女の球体関節の音。\nそれに合わせるように、ぐちゅ、ぐちゅと、\n無遠慮に蜜壺をかき回す淫猥な音が部屋中に響いている。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 52,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "人形工房の独特の匂いといやらしい蜜の香りがあたりを満たし、\nそれが私の情欲をさらに搔き立てる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 53,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv109",
+      "cName": "ココアクッキー",
+      "text": "あっ、あぁぅっ！　ん、ぃっ……ひぁああ、うッ！\nらめぇっ……と、さまぁっ！　ひもちぃよぉっ……ん、あぁあん！　\nひぁっ！　おくのとこ、もっと、ゴツゴツして、ぇっ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 54,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv110",
+      "cName": "ココアクッキー",
+      "text": "ひ、んぐぅッ！　ん、あッ、ぁっああ！　もっとぉ、ッ……！\nここあ、おとうさまがっ……もっと、ほしいのっ……！\nんぁっ、あッ、ひぁ、ああう！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 55,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "穿つたびに細い腰はビクビクと浮き上がる。\n蜜壺は中のモノを抱き締めるように何度も収縮し、\nとろとろと蜜を流している。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 56,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "自分の人形を犯す背徳感も、健気に嬌声をあげるこの子への罪悪感も、\n今はただ、快楽と興奮の呼び水でしかない。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 57,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv111",
+      "cName": "ココアクッキー",
+      "text": "おと、さまぁ……っ、ん、ここあ、幸せ……っんぅああ！\nおとうさまのっ……すごく、あったかくって、きもちっい、い……！\nんぐっ、あぅ……！　ぬるぬる、すきぃっ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 58,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv112",
+      "cName": "ココアクッキー",
+      "text": "はぁ、はっ、ぁひッ……んんんッ！\nここあの、ピンッて立ってるおっぱいの先も……\nおまたから出てるいけないぬるぬるも、ぜんぶ、見られちゃってる……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 59,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv113",
+      "cName": "ココアクッキー",
+      "text": "んっ、んぅああっ！　恥ずかしい、でも……嬉しいよぉっ！\nここあのなかから、ズルズルーって、出たり入ったりするっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 60,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv114",
+      "cName": "ココアクッキー",
+      "text": "おとうさまのっ……！　もっと、もっとほしいよぉっ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 61,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "いじらしく腰を揺らし、おねだりをする可愛い私のビスクドール。\n限界まで興奮に浸された脳は、いとも簡単に理性を振り切った。\n私は、本能に導かれるままに激しく腰を振り続け──",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 62,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv115",
+      "cName": "ココアクッキー",
+      "text": "ひぁああっ！　ん、んぅ～ッ……あ、あっ、ぁあうっ！\nんぉっ……！？　と、さまぁ……しゅ、ごい……！　はげ、しっ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 63,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv116",
+      "cName": "ココアクッキー",
+      "text": "あっ！？　あぁ……ぁひっ！　そこぉっ、トントン好きぃ……っ！\nひぁあ……っ、おと、さまぁ！\nおとうさまっ！　ここあ、きもちいいっ、よぉ……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 64,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv117",
+      "cName": "ココアクッキー",
+      "text": "見て……っここあの、恥ずかしいところ、っぜんぶ……っ！\nおとうさまになら、ここあ……ぜんぶあげる……っ、\nここあのからだは、おとうさまのモノだから……ぁっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 65,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv118",
+      "cName": "ココアクッキー",
+      "text": "ん、んっ……ぅあんっ！　あんっ！　あッ、あうぅッ！\nここあ、も……らめっ、へんなの……きちゃうっ、アッ、やだぁっ！\nんん、や、やめないで……ね？　おと、さま……うああんっぅ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 66,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "ビクビクと強い痙攣を繰り返すココアクッキーの蜜壺に、\nそろそろ絶頂が近いことを悟る。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 67,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "腰を動かしながら、初めての感覚に耐えている彼女の額を撫でると、\n彼女の大きな瞳と目があった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 68,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv119",
+      "cName": "ココアクッキー",
+      "text": "は、はぁ、はぁ……おとう、さま……\nここあはずっと、おとうさまのことを……\n最後に、おとうさまとの思い出を……ちょうだい？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 69,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "私の気持ちをすべて見透かされた様な彼女の微笑みはとても甘美だ。\n精液が袋から上がる感覚に突き動かされるまま、\n私は激しく腰を動かした。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 70,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv120",
+      "cName": "ココアクッキー",
+      "text": "ん、……あっ、あッ、あうぅっ！\nおとうひゃま、好き……そこ、好きなのぉっ……！\nあひっ！　んあっひ、うぁっ、う、んん～ッ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 71,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv121",
+      "cName": "ココアクッキー",
+      "text": "ふぁ、お願い……っ！　ちょうだいっ、ここあのなか……！\nあッ、おとうさまで、満たして……っう、ぁあん……！！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 72,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv122",
+      "cName": "ココアクッキー",
+      "text": "ひぁっ、くる……！　くる、……くるっ！　へんなのきちゃう……ッ！\nんぁ、やぁ……ぃ、ぁあ、あああっああああぁぁぅ～ッ！！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 73,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 74,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.2,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 75,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 76,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene5",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 77,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 4.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 78,
+      "command": 14,
+      "target": "kirakira",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 79,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 80,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene6",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 81,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 82,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 83,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "ありったけの精子を、ココアクッキーの最奥に解き放つ。\n絶頂後も彼女の肉壁はまるで甘えているように、\n一定の間隔で、肉棒をきゅうきゅうと締めつけてくる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 84,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "そしてすべて注ぎ終えるころには、\n許容量を越えた精液が栓の隙間からあふれ、\n彼女の股を淫猥に伝っていた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 85,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv123",
+      "cName": "ココアクッキー",
+      "text": "……ふ、ん、はぁぁっ……はぁ、はぁ……\nありがとう、おとうさま……ここあを愛してくれて……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 86,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv124",
+      "cName": "ココアクッキー",
+      "text": "ここあは……おとうさまに作っていただけてすごく幸せ。\n……あれ？　おとうさまのそこ、またおっきくなってる……？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 87,
+      "command": 6,
+      "target": "16017201",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017201_radv125",
+      "cName": "ココアクッキー",
+      "text": "ふふふ……いいよ、おとうさま。\nここあは良い子だから……\nおとうさまが満足するまで一緒に遊んであげる……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 88,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "月明かりがココアクッキーの真っ白な肌を怪しく照らす。\nビスクドールには、体力というものは存在するのだろうか？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 89,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "私は無事に明日を迎えられるのか……。\n一抹の不安を抱えながら、淫猥な人形劇を続けるのであった──",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 90,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 91,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 92,
+      "command": 7,
+      "target": "fadeout",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 93,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,1312 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1957580321982372817
+  },
+  "m_Name": "1601720321",
+  "isEro": 1,
+  "resourceList": [],
+  "storyList": [
+    {
+      "idx": 1,
+      "command": 9,
+      "target": "bgm009",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 2,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "今日はオレとココアクッキーの結婚式。\nタキシードに着替え終えたオレだったが、\n晴れの舞台に緊張してしまっていた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 3,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "緊張を紛らわそうと新婦の控室を訪れる。\n部屋のドアを開けた瞬間、オレの目に飛び込んできたのは\n純白のウェディングドレスに身を包んだココアクッキーだった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 4,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv01",
+      "cName": "ココアクッキー",
+      "text": "パティシエさん、みてみて！\nウェディングドレス、とってもすてきなの！\nここあ、かわいい？　きれい？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 5,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "見慣れたココアクッキーの無邪気な笑顔。\nしかしオレは初めて見る彼女の神聖な美しさに\n言葉を失ってしまう。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 6,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv02",
+      "cName": "ココアクッキー",
+      "text": "パティシエさん？　どうしたの？\nもしかして、緊張しちゃってるの？\n大丈夫だよ。ここあに任せて……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 7,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "そう言うと、ココアクッキーは緊張して固まる\nオレのズボンをくつろげ、上目遣いににこっと微笑んだ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 8,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "stop1",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 9,
+      "command": 7,
+      "target": "fadein",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 10,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 11,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv03",
+      "cName": "ココアクッキー",
+      "text": "カチンコチン、すごく硬いね。\nガチガチに緊張しちゃってるんだね。\nパティシエさん、かわいそう……。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 12,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "穢れを知らない処女の象徴である白いウェディングドレス。\nそんな清らかな衣装とグロテスクな男根のギャップに、\nフツフツと劣情が湧き上がってくる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 13,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv04",
+      "cName": "ココアクッキー",
+      "text": "きもちくなったら緊張ほぐれるよね？\nここあが、いっぱい舐め舐めしてあげる。\nちゅっ……はむぅ……ちゅぱぁ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 14,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 15,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "start",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 16,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 3.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 17,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 18,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv05",
+      "cName": "ココアクッキー",
+      "text": "ぐちゅ……くちゅ……んんんっ！\nおっきくて、れろっ、んちゅっ、ちゅぶっ、\nぷはぁ……おくちのなか、おちんちんでいっぱいになっちゃう……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 19,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv06",
+      "cName": "ココアクッキー",
+      "text": "でも、パティシエさんのため、だから……\nきもちくなってほしいから、ここあ、頑張るね？\nんっ、はぁ……ぺろぺろ、んっ、ちゅ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 20,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "小さな口で懸命に、健気に奉仕をしてくれるココアクッキーの姿に\n愛しい想いが胸にあふれてくる。その想いが伝わるように、\nココアクッキーの頭を優しくなでた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 21,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv07",
+      "cName": "ココアクッキー",
+      "text": "ふわぁ……ふぅん……えへへ……なでなで、嬉しい……\nパティシエさんのおっきいお手ても、おちんちんも、\nここあ、大好き、くちゅ、ぷちゅっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 22,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv08",
+      "cName": "ココアクッキー",
+      "text": "ここあもパティシエさんのおちんちん、\nおくちでいっぱい、いい子いい子、してあげるね。\nぺろぺろ、いい子いい子、ちゅっ、ちゅっ、れろんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 23,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "竿の横筋から裏筋、根本、亀頭の先までまんべんなく、\n丁寧に舌や唇を這わせるココアクッキー。\n肉棒全体に快感だけではなく、あふれんばかりの愛情を感じる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 24,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv09",
+      "cName": "ココアクッキー",
+      "text": "あ、今、ピクってした！　きもちいいんだ……\nえへへ、パティシエさんかわいい♪\nここだよね？　ちゅぱぁ、れろれろ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 25,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "的確にオレの弱点に舌を這わせるココアクッキー。\nしかし、敏感な部分を責められたおかげで、\nオレはようやく違和感に気づくことができた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 26,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv10",
+      "cName": "ココアクッキー",
+      "text": "パティシエさん？　どうしたの？　きもちくなかった？\nえ……？　動きが変？　……えへへ、バレちゃった……\nパティシエさん、すごいね……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 27,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv11",
+      "cName": "ココアクッキー",
+      "text": "……本当はね、ここあも緊張してるの……。\nパティシエさんとの、結婚式……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 28,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv12",
+      "cName": "ココアクッキー",
+      "text": "このドレスもね、パティシエさんに見てもらえるって思ったら、\n胸がドキドキして……止まらないの。\nこんな綺麗なお洋服着るの、初めてなんだもん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 29,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv13",
+      "cName": "ココアクッキー",
+      "text": "でも、パティシエさんも緊張してるんだよね？\nそう思ったら、ちょっとだけ気が楽になったの。えへへへ♪\nありがとね。だから、お礼がしたいの……んちゅ、れろっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 30,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "オレは自分の愚かさを深く反省した。オレが緊張しているのなら、\nココアクッキーだって緊張するはずだ。\nどうして気づいてやれなかったのだろう？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 31,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv14",
+      "cName": "ココアクッキー",
+      "text": "れろれりっ……ちゅっ、ちゅばぁ……\nおちんちん、カチンコチンのままなの……\nここあじゃ緊張、ほぐれないのかな？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 32,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "ただでさえ緊張しているというのに、\nココアクッキーを不安にさせてしまった。\nこれでは彼女の夫、失格だ。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 33,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "オレは自分の至らなさを謝罪し、素直な気持ちを伝えた。\nたしかに緊張はしている。だが、オレが硬くなっているのは\nココアクッキーの美しいウェディングドレス姿を見たからだ。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 34,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv15",
+      "cName": "ココアクッキー",
+      "text": "ほんとう？　パティシエさん。ここあ、きれい？\nちゃんとパティシエさんにふさわしい花嫁さんになれてる？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 35,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "そんなことを言われては、むしろオレがココアクッキーに\nふさわしいのか不安になってしまう。\nオレにはもったいないほどの可愛くて綺麗な花嫁だ。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 36,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv16",
+      "cName": "ココアクッキー",
+      "text": "ふふふふっ、えへへへ♪　嬉しい。ありがと、パティシエさん。\nパティシエさんも、かっこいいだんなさまだよ♡",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 37,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "照れくさそうに顔をそむけるココアクッキー。\n顔を真っ赤にして喜ぶ彼女が可愛らしく、\n再び目を奪われてしまった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 38,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv17",
+      "cName": "ココアクッキー",
+      "text": "パティシエさんだけのドレスだよ。\nここあは、パティシエさんだけの花嫁さんなの。\n花嫁さんのおくちで、もっともっときもちくなってね……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 39,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "妖艶な目つきでオレの顔と肉棒を見つめる。\nその美しさと期待で、肉棒の先からは我慢汁が滲みだしていた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 40,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv18",
+      "cName": "ココアクッキー",
+      "text": "おちんちん、苦しそうにしてる……\nおっきくしてたら結婚式出られないよね？\nここあがスッキリさせてあげるね……んふぅ、はむぅ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 41,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "再び口での奉仕を始めるココアクッキー。\n先ほどまでの違和感はなくなり、あまりの快感に\n思わず声がもれ出てしまった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 42,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv19",
+      "cName": "ココアクッキー",
+      "text": "ぐちゅ……にゅちゅ、ぺちゃぁ……\nパティシエさん、きもちよさそう……\nパティシエさんがきもちいと、ここあも嬉しい……♪",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 43,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv20",
+      "cName": "ココアクッキー",
+      "text": "おくちのなか、おまんこみたいに敏感になってね、\nえっちなお汁なめなめすると、嬉しくてポカポカしてくるの、\nお腹、キュンキュンして、もっとしてあげたくなっちゃうの……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 44,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv21",
+      "cName": "ココアクッキー",
+      "text": "だから、ここあにいっぱいチューチューさせて……\nいっぱいぺろぺろさせて……\nちゅぱっ、ちゅぷ、ちゅう、べろべろ、べろぉ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 45,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "ココアクッキーはうっとりとした表情で亀頭を口にふくみ、\n我慢汁を舐めとる。その動きに、愛する花嫁がオレの肉棒まで\n愛してくれていることが実感でき、心が満たされる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 46,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv22",
+      "cName": "ココアクッキー",
+      "text": "ふふふ、そうだよ？　ここあ、パティシエさんのおちんちん、\n大好きだよ？　ここあがよしよしすると喜んでくれるし、\nここあのこと、いっぱいきもちくしてくれるもん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 47,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv23",
+      "cName": "ココアクッキー",
+      "text": "んちゅ、ちゅう、ちゅぱぁ……\nここあのおくちとぺろぺろどう？　きもちい？\nせーし、出したくなってきた？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 48,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "聞かれるまでもなく、気を抜けば今にでも射精してしまいそうだ。\nだが、今射精をすればココアクッキーの顔や体を\n大量の精子が汚してしまうことだろう。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 49,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv24",
+      "cName": "ココアクッキー",
+      "text": "べろっ、れろぉ、ちゅうっ……\nいいよ。パティシエさんの好きなところに出して？\nここあ、ぜんぶ受け止めるよ？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 50,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "普段ならその言葉に甘えるところだが、\n今日はそういうわけにもいかない。この後に結婚式が控えている。\nヴァージンロードを精液まみれで歩かせるわけにはいかない。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 51,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv25",
+      "cName": "ココアクッキー",
+      "text": "じゃあこここあがぜんぶ、飲んであげる。\nおくちまんこにいっぱい、出して……ぷちゅ、はむぅ……\nずりゅ、じゅずっ、じゅるる、じゅるるっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 52,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "唾液をたっぷり含んだ口で肉棒全体を刺激するココアクッキー。\n彼女の言う通り、まるで女性器に挿入しているかのような\n心地いい快感が肉棒を包み込んでいた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 53,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv26",
+      "cName": "ココアクッキー",
+      "text": "ぐちょっ、ぐちゅぅ、ずずっ、ちゅぽぉっ……\nはぁ……ああ……またドキドキしてきちゃった……\n大好きって気持ちがあふれちゃう……んんっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 54,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv27",
+      "cName": "ココアクッキー",
+      "text": "好き、パティシエさん、好きぃ……出してぇ……\nおちんちんもぉ、せーしもぉ、パティシエさんのぜんぶ好きぃ、\nちゅっ、ちゅぱっ、ちゅう、ぺろっ、えろぉん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 55,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "根元まで肉棒を咥え込んだココアクッキー。\nそのまま激しく上下に動き、射精を促してくる。\nそしてオレの肉棒は一気に限界を迎えた──",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 56,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv28",
+      "cName": "ココアクッキー",
+      "text": "ちょーだいっ、えっちで濃いパティシエさんのせーし、\nここあのおくちにぃ、ぜんぶ出してぇ……\nはんむぅ……ぐじゅっ、ぐじゅっ、ぐじゅ、じゅぶぶぶぶぅっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 57,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv29",
+      "cName": "ココアクッキー",
+      "text": "んっ、ちょうだぃ、んんっ、\nふはぁ、だひて……んぐ、んんんんんんんんんぅぅぅぅーーーっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 58,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 59,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "stop2",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 60,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "finish",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 61,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 6.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 62,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "stop3",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 63,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 4.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 64,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 65,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "深く咥え込んだまま、射精を受け止めるココアクッキー。\nしかし、その量は想定以上のものだったらしく、\n飲み込み切れなかった精子があふれ出ててしまった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 66,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv30",
+      "cName": "ココアクッキー",
+      "text": "んくっ……んんっ……ぷはぁ……\nすごく濃い……パティシエさんのにおい……クラクラしちゃう……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 67,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "口元についた精子をぺろっと舐めとるココアクッキー。\nそのまま深く味わい、うっとりした顔で飲み込んだ。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 68,
+      "command": 6,
+      "target": "16017203",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16017203_radv31",
+      "cName": "ココアクッキー",
+      "text": "結婚式のリハーサル、ふたりっきりでしちゃったね。\n本番、大丈夫そう？　それとも、もっかい……する？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 69,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "ココアクッキーの献身のおかげで緊張はほぐれていたが、\n肉棒の怒張はほぐれていなかった。\nどうやらオレにはまだまだリハーサルが必要なようだ。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 70,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 71,
+      "command": 7,
+      "target": "fadeout",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 72,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ]
+}
