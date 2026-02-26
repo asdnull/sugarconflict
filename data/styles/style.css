@@ -109,6 +109,12 @@
 }
 */
 
+@font-face {
+    font-family: "lolitifont";
+    src: url("../fonts/lolita.ttc") format("truetype");
+    font-display: block;
+}
+
 /*
 @font-face {
     font-family: "newrodinpro";

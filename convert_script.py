@@ -147,9 +147,7 @@ def convert_json_to_script(json_data, scene_name="1001"):
     result.append("<BG_OUT>500")
     result.append("<SCENARIO_END>")
     
-    # 每行加双引号和逗号
-    result = [f'"{line}",' for line in result]
-    
+    # 不再加双引号和逗号，直接输出
     return '\n'.join(result)
 
 def main():

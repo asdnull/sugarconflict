@@ -1,0 +1,1402 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1957580321982372817
+  },
+  "m_Name": "1602110121",
+  "isEro": 1,
+  "resourceList": [],
+  "storyList": [
+    {
+      "idx": 1,
+      "command": 9,
+      "target": "bgm009",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 2,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv01",
+      "cName": "プリシラ",
+      "text": "ねえねえお兄ちゃん！\nプリシラね、猫になっちゃった！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 3,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "温かい日差しが差し込む談話室のドアが開き、\n焦った様子のプリシラが勢いよく飛び込んできた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 4,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "可愛らしい猫耳を揺らす彼女の姿に、思わず頬が緩む。\nあれ？　今日は仮装イベントの日だったか？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 5,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv02",
+      "cName": "プリシラ",
+      "text": "もう～、お兄ちゃん、真面目に聞いて！\n……そっか、いいこと思いついた！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 6,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "頬を膨らませていた彼女は、嬉しそうに身を屈め、\n俺の足の間から、にこりと微笑む。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 7,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "stop1",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 8,
+      "command": 7,
+      "target": "fadein",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 9,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 10,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv03",
+      "cName": "プリシラ",
+      "text": "ここ、猫みたいにペロペロしたら……\n信じてくれるよね？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 11,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 12,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "start",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 13,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 3.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 14,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 15,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv04",
+      "cName": "プリシラ",
+      "text": "んっ、ふ……ぺろぺろ、れろ……んっ……\nね、お兄ちゃん……どう？　気持ちいい？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 16,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "手で竿を掴み、慣れない動作で上下に扱きながら、\n先端を子猫のようにぺろぺろと舐められ、\nじわじわと快感が広がっていく。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 17,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv05",
+      "cName": "プリシラ",
+      "text": "ん、ぺろ、ぺぉ……お兄ちゃんのおちんちん、\nいつもより、おっきいね！　んん……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 18,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv06",
+      "cName": "プリシラ",
+      "text": "舐めるのも、んぷ……は、ぁ……大変だよ～！\nもしかして……猫になったプリシラに、興奮してるの？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 19,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv07",
+      "cName": "プリシラ",
+      "text": "んっ、はふ、ぺろぺろ……ぷぁっ、にゃんにゃん！\n猫のプリシラが、お兄ちゃんを気持ちよくするにゃん……！\nえへへ～、にゃんちゃって……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 20,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "途端、ぴくんっと肉棒が跳ね、吐息が当たる。\nにこっと微笑む彼女に「プリシラが可愛すぎるから」と呟いた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 21,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv08",
+      "cName": "プリシラ",
+      "text": "ふぇっ……、可愛い？　プリシラのこと、褒めてくれたの？\nプリシラ、お兄ちゃんに可愛いっていってもらえて嬉しい！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 22,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv09",
+      "cName": "プリシラ",
+      "text": "猫の耳、好き？　プリシラもね、猫は大好きだよ！\nがんばるにゃぁ！　お兄ちゃん、見ててね！\nんっ、ふぁっ、はぁ……ぺろっ、ぺろぺろ……んちゅっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 23,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "舌先の動きが次第に熱を帯び、ざらりとした感触が伝わる。\nまさか、本当に猫に……？\nそんな考えが浮かび、息をのんだ。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 24,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv10",
+      "cName": "プリシラ",
+      "text": "んにゃぁ……？　ぁっ、ん、れろっ……なんだかいつもより、\nお兄ちゃんの匂いも味も……濃く、感じるかも？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 25,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv11",
+      "cName": "プリシラ",
+      "text": "プリシラが、猫になっちゃったから……かな？\nえへへ～、でも、お兄ちゃんのこと、んっ、ぺろ、れろ……\nはぁっ、ぁ……いっぱい、感じれて……嬉しいな！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 26,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "無邪気に先端を撫でる、ざらりとした舌の感触が、\n鋭い快感となって、腰から背筋へ駆け上がった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 27,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "肉棒に添えられた両手を、上下に動かされるたび、\n血が下半身に集まり、次第に息が荒くなる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 28,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv12",
+      "cName": "プリシラ",
+      "text": "ふぁっ、は、ぁんっ……！　お兄ちゃん、すごい……！\nおちんちん、ビクビク跳ねてる！　はぁ……気持ちよさそう♡",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 29,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv13",
+      "cName": "プリシラ",
+      "text": "はぁ、んっ……プリシラね、もっともっと、がんばる……！\nおちんちん、しこしこ、すると……んっ、ぺろっ、れろれろ……\n先っぽから、赤ちゃんのもと、びゅーびゅーするんだよね？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 30,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv14",
+      "cName": "プリシラ",
+      "text": "ん、ちゅっ、れろれろっ、ちゅるる……！\n白くてドロドロの、出していいよ……？　お兄ちゃんのこと、\n気持ちよくして……猫になったの、信じてもらわなきゃ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 31,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "不思議な感触が、弱いところを正確にさらい、\n知らないはずの快感に、思考が追いつかなくなってくる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 32,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv15",
+      "cName": "プリシラ",
+      "text": "えへへ～、ん、れろ……お兄ちゃん、さきっぽね、\nぺろぺろすると……太腿が、きゅってなるよね！\nれろれろ、れるぅ……っ、んっ、先っぽ……好き？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 33,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv16",
+      "cName": "プリシラ",
+      "text": "んん……プリシラが、いっぱい、ぺろぺろしてあげる……！\n気持ちいいところ、いっぱい……しこしこ、ぺろぺろってして、\nお兄ちゃんのこと、もっとよくしてあげるね……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 34,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "ざらりとした感触に敏感な亀頭をぬるぬると舐められ、\n強すぎる快感に腰が浮いた瞬間、くすりと笑われる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 35,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv17",
+      "cName": "プリシラ",
+      "text": "ふふ、お兄ちゃん、そんなに動いたら、\nおちんちん舐められないよぉ……動いちゃダメっ、ね？\nお願い、プリシラに、おちんちんペロペロさせて？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 36,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv18",
+      "cName": "プリシラ",
+      "text": "おっきなおちんちん、両手でしこしこ、しこしこ……っ！\nんっ、はぁ……すごい熱くって硬くなってるね……！\nちゅるっ、ちゅるるぅ……ん、やっぱり猫の舌だと舐めにくいなぁ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 37,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "まさか本当に猫の姿になったのか……！？\nプリシラ……体はつらくないか？　無理してないか？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 38,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "心配そうに問いかけると、プリシラはむぅっと、\n小動物みたいに頬を丸く膨らませ、じっと睨んできた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 39,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv19",
+      "cName": "プリシラ",
+      "text": "プリシラ、子どもじゃないよ！　は、ぁぅ……ん……！\n自分の体のことくらい……自分で、わかるもん……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 40,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv20",
+      "cName": "プリシラ",
+      "text": "…それに、心配してくれるのは嬉しいけど……\n今はもっと、お兄ちゃんをペロペロしたいの……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 41,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv21",
+      "cName": "プリシラ",
+      "text": "こんなに、おちんちんも、パンパンなんだから……\nお兄ちゃんは、気持ちよくなるのに集中してて……！\nんっ、はむ……っ、ちゅっ、ちゅるるぅ……っ、ぢゅるっ！！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 42,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "彼女は口の中にカリまで迎え入れ、ちゅこっちゅこっと、\n水音を立てながら吸い上げながら激しく手を動かしはじめた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 43,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv22",
+      "cName": "プリシラ",
+      "text": "ん、ちゅっ、ぢゅるっ……ちゅこっ、ぢゅこっ！\nお兄ちゃんの、ふぁ……ぁ、おいしい♡　んん、もっとぉ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 44,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv23",
+      "cName": "プリシラ",
+      "text": "にゃぁ……っ、ん！　またたび、食べてる猫みたい……っ、\nプリシラ、はぁ……くらくら、しちゃってるよぉ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 45,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "美味しそうに肉棒を口に含み、とろんとした瞳を潤ませる、\nプリシラの乱れた姿に、体の奥から興奮が沸き上がる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 46,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv24",
+      "cName": "プリシラ",
+      "text": "ふぁっ、ぁん……っ！　ん、お兄ちゃんのおちんちん……\nピクピクってしてるね……シコシコとペロペロ、気持ちいいの？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 47,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv25",
+      "cName": "プリシラ",
+      "text": "なら……もっともっと、シコシコして、ペロペロしてあげる！\nんむっ、ん……ぺろっ、ちゅこっ、ぢゅぶ、ぢゅぶぶぅ……！\nん、はぁ、うっ！　こぇ……んむっ、きもち？　んっ、んっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 48,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv26",
+      "cName": "プリシラ",
+      "text": "ぷはぁっ、はぁ、お兄ちゃんのおちんちん、真っ赤……！\nえへへ、気持ちよさそう……さきっぽの穴、ひくひくしてる……\nん、ちゅぅ……れろれろっ、ん、れぉ……んむっ、ぢゅぅぅ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 49,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "プリシラは太腿をもじもじと擦り合わせながら腰を揺らし、\n小さく勃起した胸の突起がチラチラと左右に誘うように揺れる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 50,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv27",
+      "cName": "プリシラ",
+      "text": "んん～っ、はぁ、おにぃちゃん……プリシラも、\nなんか、変っ、んんっ……！　胸が、ドキドキして、熱くて……\nもっとおちんちん、食べたいよぉ……んぅぅ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 51,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv28",
+      "cName": "プリシラ",
+      "text": "プリシラの、お股もね、ズクズクしてきて……んっ、みやぁ！\nだめぇ……おまたから……トロトロのやつ、出ちゃうっ、\nふぇぇっ……お漏らししちゃうよぉ……んぁっ、ぁ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 52,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv29",
+      "cName": "プリシラ",
+      "text": "ふあぁ……ん、おくち寂しい……んんうぅ……っ\nお兄ちゃんの、あつくて、かたいっ、おちんちん、んっ……！\nもっともっと、舐めさせてぇ……っ、ん、ふにゃぁ……！！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 53,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "甘い刺激で高められた興奮が、腰の奥で暴れだす。\n必死に理性をつなぎ止めようとするが、\n快感に抗えず、思わず腰が浮いてしまう。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 54,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv30",
+      "cName": "プリシラ",
+      "text": "お兄ちゃんの、ん、おちんちん……ふぁっ、んっ、\n苦いの、出てきたよぉ……んちゅっ、ちゅるるっ、ちゅ！\nえっちな匂い……ぁんぅっ、もう、だめぇ……っ、はぅぅ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 55,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv31",
+      "cName": "プリシラ",
+      "text": "ぺろっ、ぺお……おいしっ、ん！　んぁっ、ちゅぅ……っ！\nおひんひん、おいひぃよぉ……んにゃっ、にゃぁんっ……！\nぁっ、んっ、ちゅぅ……ちゅるっ、ひぁっ、にゃぁ、あんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 56,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv32",
+      "cName": "プリシラ",
+      "text": "ふぁっ、んむ……っ、おくちに、ぜんぶ、入らなくてもっ、\nお手てで、んっ、んっ……しこしこして、あげるねっ！\nだから……いっぱいだひてっ、いいよ……♡",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 57,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "かぷっと亀頭を飲み込まれ、じゅぽじゅぽと、\n空気と水音が絡んだ音を立てながら吸われる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 58,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "さらに激しくなる手の動きに、ギリギリまで張り詰めた肉棒が、\n我慢の限界を迎え、太ももが小刻みに跳ねた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 59,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv33",
+      "cName": "プリシラ",
+      "text": "んあっ、はぁ、おにいちゃんの……っ、プリシラの手の中で、\nドクドクって動いてる……ひぁっ！　おちんちん、硬くって、\nんっ、熱くって……見てると、頭がぼーっとするの……っ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 60,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv34",
+      "cName": "プリシラ",
+      "text": "おちんちん、すごい……ガチガチ……ねえ、もう限界？\nいいよ、出して……あつくって、白い、お兄ちゃんの……\nプリシラにびゅるるるってっ、ぁうっ……いっぱい、かけて？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 61,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv35",
+      "cName": "プリシラ",
+      "text": "お兄ちゃん……好き、大好き……んっ、ぢゅ、ぢゅぽっ！\nおいひいよぉ……っ！　ぁんっ、ん、ん……いいよ、イって？\nん、ん、ぢゅっ、ふぁ──",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 62,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv36",
+      "cName": "プリシラ",
+      "text": "んんっ……っ、しゅごぃ、あっ、あぁ……\nふやぁ、ふにゃああああああぁぁあああああんんんっ！！！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 63,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 64,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "stop2",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 65,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "finish",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 66,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 6.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 67,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "stop3",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 68,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 4.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 69,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 70,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "背筋を貫く刺激に耐えきれず、息を詰めた瞬間、\n鋭い快感が脳を突き抜け、視界が真っ白に弾けた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 71,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "跳ねる先端からあふれた白濁が、彼女の頬に散り、\n細い筋となって、鎖骨へと静かに伝い落ちる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 72,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv37",
+      "cName": "プリシラ",
+      "text": "わぷっ……！　ふわぁ……すごーい！\nお兄ちゃんのミルク、いっぱい出たね？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 73,
+      "command": 6,
+      "target": "16021101",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16021101_radv38",
+      "cName": "プリシラ",
+      "text": "ん～……ん、ぺろっ！\nえへへ～……あったかくて、美味しいにゃ♡",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 74,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "俺の脚に頬をこすりつけ、子猫のように喉を鳴らすプリシラ。\n無邪気に微笑む彼女を見つめ、快感のため息を吐くのだった──",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 75,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 76,
+      "command": 7,
+      "target": "fadeout",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 77,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ]
+}
