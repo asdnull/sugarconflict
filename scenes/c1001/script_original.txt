@@ -1,0 +1,1424 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1957580321982372817
+  },
+  "m_Name": "1001",
+  "isEro": 1,
+  "resourceList": [
+    {
+      "name": "1001,se_4000"
+    }
+  ],
+  "storyList": [
+    {
+      "idx": 1,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene1",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 2,
+      "command": 9,
+      "target": "bgm009",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 3,
+      "command": 7,
+      "target": "fadein",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 3.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 4,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 3.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 5,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene2",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 6,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene3",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 7,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv174,26101403:26101403_radv300",
+      "cName": "ホットケーキ",
+      "text": "はんっ、はんっ、はぁーん……気持っちいいぃ……あんっ……奥まで、入ってく……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 8,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv175,26101403:26101403_radv301",
+      "cName": "ホットケーキ",
+      "text": "あっ……アタシの……おまんこ……あんっ……ど、どう？\nアタシがパティのこと……いっぱい気持ち良く\nしてあげる……んっ、はぁ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 9,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv45,16011301:16011301_radv300",
+      "cName": "抹茶パフェ",
+      "text": "んぁああっ、はぁっ……恥ずかしいです……あんっ……でも……\nんんっ、ふぅ……うぅ……パティシエさんが……ぁ、んっ……\n喜んでくれるなら……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 10,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv46,16011301:16011301_radv301",
+      "cName": "抹茶パフェ",
+      "text": "はぁっ、はぁ……なんだってできます……んっ、ひゃっ！\nパティシエさん……そんなに吸ったらぁ……あっ……ダメ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 11,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv47,16011301:16011301_radv302",
+      "cName": "抹茶パフェ",
+      "text": "……でも……気持ちいいぃ……です……あんっ\nいい……パティシエさん……もっと……舐めてくださいっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 12,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "モグモグの調査を終えて、デセールの宿へと帰宅する最中、\nデセールの建国祭に観光客として訪れていたホットケーキと\n抹茶パフェそれぞれとバッタリ遭遇した。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 13,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "抹茶パフェは、重複予約で部屋に泊まれず、\nホットケーキは、泊めて貰うはずだった知人の家が崩壊していた\nそうで、それぞれ泊まる場所がなく途方に暮れていたのだった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 14,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "そんな彼女たちを滞在中の宿屋の部屋に泊めてあげる事になったの\nだが……その日の夜、ベッドを彼女たちに譲り、主人公はソファで\n寝ていると、ホットケーキが寝床に入り込んできたのだった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 15,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301_radv176",
+      "cName": "ホットケーキ",
+      "text": "パティ……ソファで寒くない？\nアタシの着ぐるみの中に一緒に入ってもいいんだよ……？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 16,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "そう言ってチャックを降ろし、手を着ぐるみの中へ誘導されると、\n近くで抹茶パフェが寝ているというのに、誘惑に負けて、\nホットケーキの着ぐるみを脱がしてしまった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 17,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "しばらくして、ホットケーキの喘ぎ声で目を覚ました抹茶パフェは、\nしばらくモゾモゾしながら、成り行きを見守っていたが、\nホットケーキがオレに跨って挿入し始めると……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 18,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.4,
+      "args": "450.0,0.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 19,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "いても立ってもいられなくなり、服を脱いで\n恥ずかしそうにオレの顔の上に跨って来たのだった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 20,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv48,16011301:16011301_radv300",
+      "cName": "抹茶パフェ",
+      "text": "はぁっ、はぁ……パティシエさんと……ホットケーキさんが……\nＨな事、してるから……はぁん……あっ、あっ……\nんんっ、ぁっ……ズルい……です……よぉ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 21,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv49,16011301:16011301_radv301",
+      "cName": "抹茶パフェ",
+      "text": "ヤキモチ……あんっ……焼いちゃいました……\nはぁ、はぁ……気付かない……フリするつもりだったのに……\nＨの音聞いてたら……んっ、が、我慢できなくなって……はんっ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 22,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.4,
+      "args": "0.0,-300.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 23,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 11.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 24,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.4,
+      "args": "-500.0,300.0",
+      "anim": "",
+      "time": 12.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 25,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv177,26101403:26101403_radv300",
+      "cName": "ホットケーキ",
+      "text": "気持ちいいっ……気持ちいいよぉ……あんっ……\nパティのオチンコ、カチカチだから……はんっ\n気持ちいいぃぃ……あああっん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 26,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv178,26101403:26101403_radv302",
+      "cName": "ホットケーキ",
+      "text": "パティに舐められて……はぁ、はぁ……んんっ……\n感じてる抹茶パフェさんを見てると……ひっ……\nはぁっ……余計に感じてくるよぅ……ああっ、んん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 27,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv179,26101403:26101403_radv301",
+      "cName": "ホットケーキ",
+      "text": "パティの舌で舐められるとっ……あはっ……そんなに……\nはぁ、はぁ……気持ちいいの？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 28,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.4,
+      "args": "450.0,0.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 29,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv50,16011301:16011301_radv302",
+      "cName": "抹茶パフェ",
+      "text": "あんっ……はぁ、はぁ……気持ちいいよぉ……\nパティシエさんのお口……あっ……いいっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 30,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv180,26101403:26101403_radv302",
+      "cName": "ホットケーキ",
+      "text": "抹茶パフェより……気持ちよくしてっ……パティ……\nあっ……んっ、ぁっ……パティのおチンコ……\nもっと突き上げてっ……はぁんっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 31,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv51,16011301:16011301_radv300",
+      "cName": "抹茶パフェ",
+      "text": "はぁん、はぁ、はぁ……私もパティシエさんの事……\n気持ちよくしたいのにっ……んっ、ぁん……\nふぅっ……うう……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 32,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.0,
+      "args": "0.0,0.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 33,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv52,16011301:16011301_radv301",
+      "cName": "抹茶パフェ",
+      "text": "私ばっかり、気持ちよくして貰って……あはっ……\nいいのでしょうか……はぁん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 34,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv181,26101403:26101403_radv300",
+      "cName": "ホットケーキ",
+      "text": "アタシも、頑張って腰振って……はぁ、はぁ……パティの事……\nいっぱい……あ……ひっ……ひっぱい……気持ちよく\nしたい……はぁん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 35,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv182,26101403:26101403_radv301",
+      "cName": "ホットケーキ",
+      "text": "パティ……どう？　気持ちいっ？\nアタシのおまんこ……気持ちいっ？\nちゃんと締まってる？　はぁ、はぁ……ぁっああっん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 36,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "騎乗位で激しく腰を振っているホットケーキだが、\n激しく上下運動を繰り返している内に、\n着ぐるみの頭部が外れている事に気付いていない様子だった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 37,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "顔面騎乗位で膣からたくさんの汁を垂らしている抹茶パフェは、\n当初恥ずかしそうにそれを舐めさせていたが、\n今では気持ちよさそうによがり声を上げている。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 38,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene4",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 39,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.2,
+      "args": "-200.0,-200.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 40,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv53,16011301:16011301_radv301",
+      "cName": "抹茶パフェ",
+      "text": "あぅうっ……ホットケーキさんっ……気持ち良さそう……あっ\n次は……あんっ……私にも……はぁ、はぁ……\nパティシエさんのおちんちん……くださいっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 41,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv54,16011301:16011301_radv300",
+      "cName": "抹茶パフェ",
+      "text": "パティシエさんのお口が気持ちよすぎて……はぁんっ……\n奥の奥まで入れて欲しくて……あんっ……おかしくなりそう……ふぅんっ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 42,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv55,16011301:16011301_radv302",
+      "cName": "抹茶パフェ",
+      "text": "はぁ、はぁ……パティシエさん……あんっ……パティシエさん……\nパティシエさんにペロペロされちゃってる……あぁっはぁっん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 43,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.4,
+      "args": "450.0,0.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 44,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv56,16011301:16011301_radv301",
+      "cName": "抹茶パフェ",
+      "text": "私の汚い……おし……ふぅ……おしっこするところ……\nペロペロ……あぁっふぁん……いっぱいペロペロ……んっ\n頭が、おかしくなっちゃいそうです……あぅうっ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 45,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv57,16011301:16011301_radv302",
+      "cName": "抹茶パフェ",
+      "text": "がっ、我慢しないと……いったらパティシエさんのお顔に……\nお潮がかかっちゃう……ふはっ、ふはっ……我慢っ……\nできなくなりそっ……ですっ……あんっ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 46,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv183,26101403:26101403_radv300",
+      "cName": "ホットケーキ",
+      "text": "ああっ……んんっ……すごっぁっ……はぁ、はぁ……\nパティまだ……いかないっ？\nアタシっ……ダメっ……いっ……ちゃいそっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 47,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.2,
+      "args": "-200.0,200.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 48,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv184,26101403:26101403_radv301",
+      "cName": "ホットケーキ",
+      "text": "いっ……ちゃうっ……なっ……何もっ……あんっ\nぁっ、あぁ……考えられなくなってきちゃった……\nはぁっ、ふぅ……くぅっ、んぁっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 49,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv185,26101403:26101403_radv302",
+      "cName": "ホットケーキ",
+      "text": "すごいっ……んっ、ふふっ……あはっ……えへっ……\nふふふっ……パティのおちんぽが……\n下からすっごい突き上げてくるっ……あぁっ、はぁんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 50,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv186,26101403:26101403_radv300",
+      "cName": "ホットケーキ",
+      "text": "これ以上はっ……あっ、はぁあんっ、んっ……\n気持ちっ……すごく気持ちっ……\nんんっ、イく……イッてっ、はっ……はぁっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 51,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.2,
+      "args": "-200.0,-200.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 52,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv187,26101403:26101403_radv301",
+      "cName": "ホットケーキ",
+      "text": "じゃないと……アタシっ……おバカになっちゃうよっ……\nはぁっん……はぁ、はぁ……んんっ……ダメだってばぁ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 53,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv58,16011301:16011301_radv300",
+      "cName": "抹茶パフェ",
+      "text": "くぅ……んん……ホットケーキさん……気持ちよさそっ……\n羨ましいですっ……はぁっ……ぅぅあんっ……\n私も激しく入れて欲しいのですが……あ、はぁん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 54,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv59,16011301:16011301_radv301",
+      "cName": "抹茶パフェ",
+      "text": "はぁ、はぁ……入れて欲しいけどっ……んっああっ……\n私は……パティシエさんのお口でイッてしまいそぅ……はぁん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 55,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.4,
+      "args": "450.0,0.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 56,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv60,16011301:16011301_radv300",
+      "cName": "抹茶パフェ",
+      "text": "ダメですっ……はぁん……パティシエさんっ……はぁっ\nそっちの穴は……お尻のっ……ですよっ……あんっ\nんんっ、くぅ……私の汚い所っ……あぁっ……なのにぃ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 57,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv61,16011301:16011301_radv302",
+      "cName": "抹茶パフェ",
+      "text": "ストップですっ……あっ……ストップ……\nはああぁぁっ……ダメっ……いっちゃいますうぅぅ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 58,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403:26101403_radv62,16011301:16011301_radv302",
+      "cName": "抹茶パフェ",
+      "text": "パティシエさんのお顔にかかっちゃう……\n気持ちいいけど……あんっ……\n一旦、ストップしてください……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 59,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.0,
+      "args": "0.0,0.0",
+      "anim": "",
+      "time": 10.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 60,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv188,26101403:26101403_radv302",
+      "cName": "ホットケーキ",
+      "text": "抹茶パフェさんもっ……はぁん……すっごく感じてる……\nパティに舐められるの……そんなに気持ちいいのっ？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 61,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv189,26101403:26101403_radv63",
+      "cName": "ホットケーキ/抹茶パフェ",
+      "text": "いっ……いっ……あっ……あんっ\nはぁあっん……うぅ……ぁっ、あぁぁ……\nはぁ、はぁ……凄いっ、おちんこパンパンっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 62,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv190,26101403:26101403_radv64",
+      "cName": "ホットケーキ/抹茶パフェ",
+      "text": "いっちゃう……アタシ、いっちゃう……\nいっちゃうよっ……パティもっ？　いこっ……\n３人で一緒にいこっ……ああぁん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 63,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301:16011301_radv191,26101403:26101403_radv65",
+      "cName": "ホットケーキ/抹茶パフェ",
+      "text": "ふああああぁあぁんっ！\nあっ、あっ、あんっ、あんっ、ああぁっん……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 64,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 2.0,
+      "args": "-300.0,-400.0",
+      "anim": "",
+      "time": 6.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 65,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 66,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene5",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 67,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 4.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 68,
+      "command": 12,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 1.0,
+      "args": "0.0,0.0",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 69,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "scene6",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 70,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 71,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 72,
+      "command": 6,
+      "target": "26101403",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26101403_radv66",
+      "cName": "抹茶パフェ",
+      "text": "はぁはぁ……パティシエさんのお顔に……\n私……もう……力が抜けてしまって……\nあんっ……動けませんっ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 73,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301_radv192",
+      "cName": "ホットケーキ",
+      "text": "はぁはぁ……どくどくしてる……\nパティの精子が私の中いっぱいにして……\n垂れてきちゃってる……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 74,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301_radv193",
+      "cName": "ホットケーキ",
+      "text": "はぁはぁ……熱いのいっぱい……気持ちいい……\nこんなに気持ちいいのっ……初めて……\nはぁ……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 75,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301_radv194",
+      "cName": "ホットケーキ",
+      "text": "抹茶パフェさん、もしかして……気を失ってる？\nパティのクンニ、そんなに良かったの？\nじゃあ、場所交換して、もう一回しよっ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 76,
+      "command": 6,
+      "target": "16011301",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "16011301_radv195",
+      "cName": "ホットケーキ",
+      "text": "ちょっとまって……ふぅ……汗がこんなに……\nあれっ？　アタシ、着ぐるみの頭……\nえっ、いつから？　えー！？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 77,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "着ぐるみの頭が取れている事に気付いたホットケーキは、\nそれからしばらく大騒ぎをしたが……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 78,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "なんとか頭部をつけ直すと、\n今度は、意識を取り戻した抹茶パフェと場所を交換し、\n２人が上になる騎乗位で第２回戦を始めたのだった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ]
+}
