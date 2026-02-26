@@ -1,8 +1,3 @@
-sceneData = {
-    "c1602110122": {
-        "SCRIPTS": {
-            "PART1": {
-                "SCRIPT": [
 "<BGM_PLAY>bgm009,0,",
 "<NAME_PLATE>",
 "その日の夜、俺はプリシラと一緒に、\n自室でなぜ猫になってしまったんだろうと話し合いをしていた。",
@@ -269,12 +264,3 @@ sceneData = {
 "<UI_DISP>OFF, 500",
 "<BG_OUT>500",
 "<SCENARIO_END>",
-                ],
-                "NAME": "c1602110122",
-                "THUMBNAIL": "thumbnail",
-                "ANIMATED": "1"
-            }
-        },
-        "RELEASE_VERSION": 1
-    }
-}
