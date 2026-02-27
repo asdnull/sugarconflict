@@ -1,0 +1,1438 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1957580321982372817
+  },
+  "m_Name": "2610880221",
+  "isEro": 1,
+  "resourceList": [],
+  "storyList": [
+    {
+      "idx": 1,
+      "command": 9,
+      "target": "bgm009",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 2,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "──夕暮れの陽が差し込むリビング。\nコトコト鳴る鍋と漂う香りに、胸の奥まで安らいでいく。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 3,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "部屋を抜けようとしたその時……クチュクチュっと、\n湿った水音が不意に耳を打ち、足を止める。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 4,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "そっと覗いた視線の先には、四つん這いで揺れる、\n妻のブリュレパフェの姿……なにかあったのだろうか？",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 5,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "はぁ……んっ……甘く洩れる声。\n小さな指が陰部をくにくにと弄り、艶めかしく震える。\nオレはとっさに扉の影に身を寄せるのだった──",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 7,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 8,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "stop1",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 9,
+      "command": 7,
+      "target": "fadein",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 10,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 11,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "start",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 12,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 3.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 13,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 13,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv01",
+      "cName": "ブリュレパフェ",
+      "text": "んっ、ふぅ……はぁっ、まだ料理中なのに、私……っ、\nんくっ、ぁっ！　い、いけないことってわかってるのに……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 14,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv02",
+      "cName": "ブリュレパフェ",
+      "text": "でもっ、我慢できない……っ、指、んっ、ちょっとだけっ……\nちょっと遊んだら、はぁっ、すぐ、料理に戻るからっ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 15,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "ブリュレパフェが割れ目を指で撫でると、\n透明な蜜が絡み、淫らな水音が部屋に響く。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 16,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv03",
+      "cName": "ブリュレパフェ",
+      "text": "はぁ、ん、ここ、気持ちいい……ふぅっ、ぅ！\nや、優しく……やさしくっ、ふっ、んんんぅ～……っ！\nはぁぅっ！　んん……っ！　は、ぁっ、もう少しだけ……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 17,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv04",
+      "cName": "ブリュレパフェ",
+      "text": "はぁぅ……気持ちいいっ、ん、んっ！\n気持ちいいですっ、はぁ……っ、旦那様……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 18,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "彼女の半開きになっている唇から、オレの名が漏れた。\nとろんと瞳を潤ませ、なおも指を動かし続ける。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 19,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv05",
+      "cName": "ブリュレパフェ",
+      "text": "んんぅっ　はぁ……大好きな、旦那様にっ、\nふぅっ、んっ、ぁ！　こんなふうにっ、んっ、触ってもらえたら……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 20,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv06",
+      "cName": "ブリュレパフェ",
+      "text": "太くてたくましい、男らしい指でっ、こうして……っ、ふぁっ！\nおまんこ、くにくにっ、してもらって……んっ、はぁぅ……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 21,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv07",
+      "cName": "ブリュレパフェ",
+      "text": "あ、そこっ、だめぇ……っ！　んぁっ、ヌルヌルでっ、んっ！\nは、恥ずかしいです……あぁっ、はぁっ、あぅん……っ！！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 22,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "淫らな光景に、思わず喉が鳴る。\n彼女の姿に囚われたまま、手は自然に下半身へと伸びた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 23,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "甘く喘ぐ彼女の指が、くにっと小さな突起をこすった瞬間、\n背がビクビクと震え、一層高い声が漏れる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 24,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv08",
+      "cName": "ブリュレパフェ",
+      "text": "ひぁっ！？　あぁぅん……っ　は、ぁっ\nすごい……っ、んっ、そこっ、気持ちいい、です……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 25,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv09",
+      "cName": "ブリュレパフェ",
+      "text": "はぁっ、ぁうっ！　んん……っ、旦那様、もっと\nもっと、そこっ、んぁぅっ！　さわって、ください……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 26,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv10",
+      "cName": "ブリュレパフェ",
+      "text": "ふぁ、ぁっ、あぅっ　ふぅ……っ、んんっ、気持ちいいっ\nあっ、ぁっ　どうしよ……ゆび、止まらない……んんんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 27,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "くちゅくちゅと水音が響くなか、漂う料理のいい香り。\n日常と非日常が入り乱れる淫猥さに、眩暈を覚えた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 28,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv11",
+      "cName": "ブリュレパフェ",
+      "text": "はぁっ……あぁんっ、んぅっ……！\nこ、こんな妄想してるって……ぁっ、ぁぅっ！\nはぁっ、んっ……もし、旦那様に、ばれたら……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 29,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv12",
+      "cName": "ブリュレパフェ",
+      "text": "んんっ……ひぁっ！　えっちな女の子だってっ……\n幻滅、されちゃう……かも……っ、ぁっ、あぁぅっ！\nやだぁ……っ、んっ、嫌われたく、ないのに……",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 30,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv13",
+      "cName": "ブリュレパフェ",
+      "text": "ふぁぁっ……んんっ……！　気持ちよくって、指、ぁんっ！\n止まらないの……あぁっ、やぁっ！　んっ、だめぇ……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 31,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "指の輪に肉棒を包み、しごく速度が段々と速くなる。\n竿が震え、弾む呼吸を飲み込み、熱がジワジワと蓄積する。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 32,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "彼女は愛液を纏った指先で淫らに双丘を撫で、\n蜜壺の突起を指で軽く叩き、背をブルリと震わせた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 33,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv14",
+      "cName": "ブリュレパフェ",
+      "text": "ふぁっ　はぁぁ、んっ……！　ひぁっ、あぅっ！\nクリトリス、トントンしないれぇ……っ　あっ、あっ\nゆび、なか、入っちゃっ……んんぅっ、きゃうぅ……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 34,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv15",
+      "cName": "ブリュレパフェ",
+      "text": "あっ、ぁっ！　旦那様ぁっ……ゆびっ、んんっ！\n入ってますぅ……っ、んぅっ、ん……っ、あぁっ、ぁんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 35,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "指が蜜壺の中で、ちゅくちゅくっと揺れ動き、\n支える脚は、快楽に耐え切れずガクガクと震えはじめる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 36,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv16",
+      "cName": "ブリュレパフェ",
+      "text": "あぁ……っ、あぅっ！　んぁっ、き、気持ちいい……っ！\n指っ、んっ　そこぉ……っ、ぁぅっ！　気持ち、いいれすぅっ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 37,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv17",
+      "cName": "ブリュレパフェ",
+      "text": "ふぁっ、旦那しゃまっ　あぁぅっ！　ん、ぁっ、あっ\nおまんこから、お汁……っ、びしゃびしゃっ、にしてぇ……\nふあぁっ……！　ごめっ、ごめんなさ……っ、ぁっ、あぅっ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 38,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv18",
+      "cName": "ブリュレパフェ",
+      "text": "ゆび、もっと、ぁ、あんっ！　くだしゃい……っ、ふぁっ\n旦那様の、指でっ、私のおまんこ……んんぅ！\nぐちゃぐちゃに……っ、ぁぅっ、して、欲しいですっ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 39,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "彼女がぐちゅぐちゅと指で蜜壺をかき混ぜると、\n性器と尻穴から透明の蜜が垂れ流れ、床を濡らした。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 40,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv19",
+      "cName": "ブリュレパフェ",
+      "text": "ふぁっ、あっ！　んぅっ、見てくだしゃ……っ、あぅっ！\n旦那様の指で、こんなに、なっちゃいましたっ\nもっと見て……っ、見て、欲しいです……っ、んあぁんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 41,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv20",
+      "cName": "ブリュレパフェ",
+      "text": "本当は、ぁっ、はぁ、私が……っ、えっちな、女の子だって、\n旦那様に、んぅっ、知ってほしいんですっ……！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 42,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "動き続ける指に合わせて、揺れる尻は淫らで、\n肉棒を欲しがるような仕草に、オレの熱はさらに煽られる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 43,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "床に散るほどの激しい水音を響かせながら、\n彼女は快楽から、くしゃりと顔を歪めながら涙をこぼした。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 44,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv21",
+      "cName": "ブリュレパフェ",
+      "text": "あっ、あぁん……っ、んんっ……ひぁっ！\nだ、だいすきな旦那様に……っ、\n幻滅、されたくないのに……あ、あぅっ、ひぁぁっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 45,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv22",
+      "cName": "ブリュレパフェ",
+      "text": "んんっ……でも……っ、こんな私のこと……\nぜんぶ……っ、あぁっ、知ってほしいの……っ、んんっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 46,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv23",
+      "cName": "ブリュレパフェ",
+      "text": "はぁっ、はぁっ……お料理中なのに……っ、あんっ！\nえっちな妄想、とまらなくて……っ、んっ、ぁっ、はうぅ……！\nひとりでしちゃう、淫乱な女の子だって……知ってほしいぃ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 47,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "もしかしてオレが覗いてるのを知ってるのか？\n覗きを気づかれたかと一瞬、胸が激しく脈打ち、\n背徳感が、徐々に興奮へと変わっていく。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 48,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv24",
+      "cName": "ブリュレパフェ",
+      "text": "旦那様……す、好き……っ、\nあぁ、んっ、だいすきです……っ　ふぁぁ、ぁっ、あぅっ\n私の、大好きな、旦那さま……っ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 49,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv25",
+      "cName": "ブリュレパフェ",
+      "text": "さ、寂しいですっ……んっ、ひぁ、あんっ……！\n帰ってきたら……ぁんっ！　ぁ、あっ、あぁっ……！！\nいっぱい、抱いてほしいの……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 50,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "彼女は甘い声を震わせながら、指はさらに深く突き入り、\nとろける蜜壺をさらに激しく、淫らにかき乱していった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 51,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv26",
+      "cName": "ブリュレパフェ",
+      "text": "体も……頭もっ、とろけるくらい……っ、\nんぁぁっ、あっ、んぅ～……っ、ぐちゃぐちゃに、されたい……！\nあっ、ぁんっ、あぅッ　だめぇ……欲しいのぉ……っ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 52,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv27",
+      "cName": "ブリュレパフェ",
+      "text": "あっ、ぁんっ……！！　ひぁっ、あぅッ　やぁ……っ！\nた、足りない……っ、あっ、あっ　おちんちん……っ\nんっ、あっ、あぁっ　おちんちん、欲しいのぉ……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 53,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv28",
+      "cName": "ブリュレパフェ",
+      "text": "はぁっ、はぁっ……んぁっ……っ！　あぁんっ……\nもっと、もっと……っ、激しく、して……っ！　ふぁっ、あッ！\n淫乱おまんこっ　もっと、ぐちゃぐちゃにしてぇぇ……っ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 54,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "全身をのけ反らせ、汗に濡れた肌が小刻みに震える。\n指の動きは大胆さを増し、ヒクヒクと震える穴が丸見えだった。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 55,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "指に追い立てられる蜜壺はとろけて、\n淫らな水音と快楽に溺れた涙まじりの嬌声が重なる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 56,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv29",
+      "cName": "ブリュレパフェ",
+      "text": "旦那様の、おちんちんでぇ……っ、あぁんっ\nひぁっ、あぁっ、もっとぉ……っ　淫乱なわたしの、おまんこっ、\n奥の奥までっ、ズポズポ、犯してぇぇ……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 57,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv30",
+      "cName": "ブリュレパフェ",
+      "text": "私、淫らで……っ、淫乱な……新妻で……っ　\nあぁっ、んっ、ごめんなさいぃぃ……っ\nでも……気持ちよすぎて……っ、やめられないのぉっ♡",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 58,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "激しく出入りする指に蜜壺はぐちゅぐちゅと音を立て、\n彼女の腰は何度も跳ね上がり、息は乱れていた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 59,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "涙と涎をこぼしながら、嬉しそうに甘い声を散らし、\n限界を訴えるように彼女の全身が痙攣しはじめる。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 60,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv31",
+      "cName": "ブリュレパフェ",
+      "text": "あぁっ、ひくひくしてるのっ……\nわるいおまんこに……っ、旦那様の、おちんちん……入れてぇぇ……っ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 61,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv32",
+      "cName": "ブリュレパフェ",
+      "text": "んぁっ、んんっ……指じゃ足りないよぉ……っ\nおちんちん……欲しいのっ……あぁっ、\n旦那様の熱で……満たしてぇっ！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 62,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv33",
+      "cName": "ブリュレパフェ",
+      "text": "ふぁぁっ、あっ、あぁんっ……もっと……\nぐちゅぐちゅに……めちゃくちゃにして……っ！\n奥まで……旦那様ので、いっぱいに……っ！！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 63,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv34",
+      "cName": "ブリュレパフェ",
+      "text": "んんっ、ひぁっ……きちゃうっ……っ！！\nあぁっ、ひあぁっ……！！　おしっこっ、だめぇぇ……出ちゃっ──",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 64,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv35",
+      "cName": "ブリュレパフェ",
+      "text": "んあぁっ、漏れちゃ……んぁ、ひゃああああぁぁあああっ！！！",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 65,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 66,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "stop2",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 67,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "finish",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 68,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 6.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 69,
+      "command": 17,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "stop3",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 70,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 4.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 71,
+      "command": 11,
+      "target": "show",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 72,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "その瞬間、堰を切ったように蜜壺が弾け、\n彼女が腰を跳ね上げながら全身を痙攣させると、\n大量の愛液が飛沫となって床を濡らした。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 73,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "指が抜けた蜜壺から、失禁混じりの潮を噴き出しながら、\n彼女は焦点の定まらない視線を天井に向けていた。",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 74,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv36",
+      "cName": "ブリュレパフェ",
+      "text": "はぁっ……あぁっ　あぅぅ……旦那様……っ、\nだいすきですぅ……はやく、会いたいよぉ……っ",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 75,
+      "command": 6,
+      "target": "26108802",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "26108802_radv37",
+      "cName": "ブリュレパフェ",
+      "text": "美味しいごはん……作ってまってますから……\n帰ってきたら、いっぱい抱いてください……♡",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 76,
+      "command": 6,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "知らなかった彼女の想い……\n狂おしいほど求められ、胸がとろけるほどに満たされていく。\nオレは初夜に向け、覚悟を固めるのだった──",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 77,
+      "command": 11,
+      "target": "hide",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 0.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 78,
+      "command": 7,
+      "target": "fadeout",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 1.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "idx": 79,
+      "command": 5,
+      "target": "",
+      "xPos": 0,
+      "yPos": 0,
+      "scale": 0.0,
+      "args": "",
+      "anim": "",
+      "time": 2.0,
+      "voice": "",
+      "cName": "",
+      "text": "",
+      "image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ]
+}

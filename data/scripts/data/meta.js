@@ -3146,7 +3146,24 @@ var CHAR = {
             artist: ARTIST.NULL,
             cv: CV.NULL
         }
-    }
+    },
+    BRULE_PARFAIT: {
+        base: {
+            name: {
+                eng: "BRULE_PARFAIT",
+                engAlias: [],
+                jap: "布蕾圣代",
+                japAlias: []
+            },
+            tags: [
+                TAG.FLAT_CHESTED, TAG.TINY, TAG.LIGHT_SKIN
+            ],
+            gender: "female",
+            originalCharacter: true,
+            artist: ARTIST.NULL,
+            cv: CV.NULL
+        }
+    },
 };
 
 var SCENE = {
@@ -3264,6 +3281,66 @@ var SCENE = {
         character: [CHAR.PRISCILLA],
         tags: {
             female: [TAG.VAGINAL_SEX, TAG.NEKOMIMI, TAG.TAIL, TAG.NAKADASHI],
+            male: [],
+            location: [TAG.BEDROOM],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "2610880121": {
+        character: [CHAR.BRULE_PARFAIT],
+        tags: {
+            female: [TAG.BLOWJOB, TAG.HANDJOB, TAG.CUM_IN_MOUTH],
+            male: [],
+            location: [TAG.BEDROOM],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "2610880131": {
+        character: [CHAR.BRULE_PARFAIT],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.NAKADASHI, TAG.MISSIONARY_POSITION],
+            male: [],
+            location: [TAG.LIVING_ROOM],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "2610880141": {
+        character: [CHAR.BRULE_PARFAIT],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.COWGIRL_POSITION],
+            male: [],
+            location: [TAG.INSIDE],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "2610880221": {
+        character: [CHAR.BRULE_PARFAIT],
+        tags: {
+            female: [TAG.MASTURBATION],
+            male: [],
+            location: [TAG.LIVING_ROOM],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "2610880231": {
+        character: [CHAR.BRULE_PARFAIT],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.COWGIRL_POSITION],
+            male: [],
+            location: [TAG.BEDROOM],
+            misc: []
+        },
+        ignoredCharacterTags: []
+    },
+    "2610880241": {
+        character: [CHAR.BRULE_PARFAIT],
+        tags: {
+            female: [TAG.VAGINAL_SEX, TAG.MISSIONARY_POSITION, TAG.DEFLORATION],
             male: [],
             location: [TAG.BEDROOM],
             misc: []
